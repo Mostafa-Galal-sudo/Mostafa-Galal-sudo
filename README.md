@@ -44,7 +44,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║  $ whoami                                                        ║
 ║                                                                  ║
-║  > Mostafa Galal  ·  aka  RAYES.0xKRNL                          ║
+║  > Mostafa Galal  ·  aka  RAYES.0xKRNL                           ║
 ║  > Electronics & Communications Engineer                         ║
 ║  > Obsessed with: low-level internals, binary exploitation,      ║
 ║    kernel security, and embedded smart systems                   ║
@@ -284,7 +284,7 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  The best defense is understanding the offense.          ║
-║                                        — RAYES.0xKRNL   ║
+║                                        — RAYES.0xKRNL    ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
