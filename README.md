@@ -43,7 +43,7 @@
 ║                                                                  ║
 ║  > Mostafa Galal  ·  aka  RAYES.0xKRNL                           ║
 ║  > Electronics & Communications Engineer                         ║
-║  > Obsessed with: low-level internals, binary exploitation,    ║
+║  > Obsessed with: low-level internals, binary exploitation,      ║
 ║    kernel security, and embedded smart systems                   ║
 ║  > Certifications: eJPT · CCNA · CCNP                            ║
 ║  > Arena: HackTheBox · Red Team Ops · Bug Bounty (licensed)      ║
