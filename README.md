@@ -45,7 +45,7 @@
 ║  > Electronics & Communications Engineer                         ║
 ║  > Obsessed with: low-level internals, binary exploitation,      ║
 ║    kernel security, and embedded smart systems                   ║
-║  > Certifications: eJPT · CCNA · CCNP                            ║
+║  > Certifications: eJPT · CCNA                                   ║
 ║  > Arena: HackTheBox · Red Team Ops · Bug Bounty (licensed)      ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -71,16 +71,18 @@
 [![Metasploit](https://img.shields.io/badge/Metasploit-8B0000?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=000000)](https://www.metasploit.com)
 [![pwntools](https://img.shields.io/badge/pwntools-8B0000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](https://docs.pwntools.com)
 [![GDB](https://img.shields.io/badge/GDB%2Fpwndbg-8B0000?style=for-the-badge&logoColor=FF0000&labelColor=000000)](https://github.com/pwndbg/pwndbg)
+[![BloodHound](https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&logo=graphql&logoColor=white&labelColor=000000)](https://github.com/BloodHoundAD/BloodHound)
+[![Impacket](https://img.shields.io/badge/Impacket-8B0000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](https://github.com/fortra/impacket)
 
-#### Embedded & Electronics
+#### AI & Embedded Systems
 [![Arduino](https://img.shields.io/badge/Arduino-8B0000?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000)](https://www.arduino.cc)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-8B0000?style=for-the-badge&logo=raspberry-pi&logoColor=white&labelColor=000000)](https://www.raspberrypi.org)
+[![Ollama](https://img.shields.io/badge/Ollama-8B0000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=000000)](https://ollama.ai)
 [![OpenCV](https://img.shields.io/badge/OpenCV-8B0000?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000)](https://opencv.org)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-8B0000?style=for-the-badge&logo=google&logoColor=white&labelColor=000000)](https://mediapipe.dev)
-[![Blender](https://img.shields.io/badge/Blender-8B0000?style=for-the-badge&logo=blender&logoColor=white&labelColor=000000)](https://www.blender.org)
-[![SageMath](https://img.shields.io/badge/SageMath-8B0000?style=for-the-badge&logoColor=FF0000&labelColor=000000)](https://www.sagemath.org)
+[![Flask](https://img.shields.io/badge/Flask-8B0000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000)](https://flask.palletsprojects.com)
 
-#### Platforms & DevOps
+#### Platforms & Dev
 [![Docker](https://img.shields.io/badge/Docker-8B0000?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)](https://www.docker.com)
 [![Linux](https://img.shields.io/badge/Linux-8B0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000)](https://www.linux.org)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000)](https://app.hackthebox.com)
@@ -130,12 +132,25 @@
 
 | Project | Description | Status | Tech |
 |---------|-------------|--------|------|
-| [**NM Analyzer**](https://github.com/Mostafa-Galal-sudo) | Static analysis engine for Linux Kernel Modules — symbol-table heuristics detect rootkits, privesc symbols, syscall hooks. Weighted risk scoring + JSON report. | 🟢 Active | Python, ELF |
-| [**PrivEsc-Suite**](https://github.com/Mostafa-Galal-sudo) | Comprehensive Linux privilege escalation framework — 3300+ lines, 183+ SUID binaries, 55+ sudo cases, 13 kernel CVEs, LD_PRELOAD/PYTHONPATH chains. | 🟢 Active | Bash, Python |
+| [**PrivEsc-Suite**](https://github.com/Mostafa-Galal-sudo) | Comprehensive Linux privilege escalation framework — 3,300+ lines, 183+ SUID binaries, 55+ sudo NOPASSWD vectors, 13 kernel CVEs (2015–2024), LD_PRELOAD/PYTHONPATH chains, runtime false-positive reduction, and a weighted risk-scoring engine. | 🟢 Active | Bash, Python |
 | [**Shadow Core**](https://github.com/Mostafa-Galal-sudo) | Modular framework for staged payload delivery and controlled listener orchestration. Configuration-driven module graph, multi-stage loader chain, pluggable transports. | 🔒 Private | Python, C |
-| [**Payload Generator**](https://github.com/Mostafa-Galal-sudo) | Multi-platform payload research toolkit — Windows/Linux/macOS/Python/JS/PowerShell formats, obfuscation pipeline, listener integration. Lab use only. | 🔒 Private | Python, C++ |
-| [**Keylogger Framework**](https://github.com/Mostafa-Galal-sudo) | Client-server telemetry framework for keystroke pattern analysis. Async transport, JSON session logging, controlled lab environments. | 📦 Archived | Python, Socket |
+| [**Payload Research Toolkit**](https://github.com/Mostafa-Galal-sudo) | Multi-platform payload research toolkit — Windows/Linux/macOS/Python/JS/PowerShell formats, obfuscation pipeline, listener integration. Authorized lab use only. | 🔒 Private | Python, C++ |
+| [**Endpoint Telemetry Logger**](https://github.com/Mostafa-Galal-sudo) | Stealth kernel-adjacent tool for keystroke and mouse event capture — built for malware behavior research and EDR detection-gap analysis. Async transport, JSON session logging. | 📦 Archived | Python, Socket |
 | [**TCP Full Scan Tool**](https://github.com/Mostafa-Galal-sudo) | Async TCP full-port scanner (1–65535) — asyncio semaphore concurrency, banner grabbing, well-known service fallback, CSV export. | 🟢 Active | Python |
+| [**NM Analyzer**](https://github.com/Mostafa-Galal-sudo) | Static analysis engine for Linux Kernel Modules — symbol-table heuristics detect rootkits, privesc symbols, and syscall hooks. Weighted risk scoring + JSON report. | 🟢 Active | Python, ELF |
+| [**Snapchat SMTP Open Relay**](https://github.com/Mostafa-Galal-sudo) | Identified and responsibly disclosed an SMTP open relay misconfiguration in Snapchat's mail infrastructure via coordinated vulnerability disclosure. | 🏆 Bug Bounty | Recon, SMTP |
+
+</details>
+
+<details>
+<summary><b>🤖 AI Systems & Computer Vision</b></summary>
+<br>
+
+| Project | Description | Status | Tech |
+|---------|-------------|--------|------|
+| [**J.A.R.V.I.S. AI Assistant**](https://github.com/Mostafa-Galal-sudo) | Full Iron Man-inspired AI assistant with bilingual (AR/EN) support, wake word detection, long-term memory, and screen awareness. LOCAL/ONLINE hybrid inference engine routing between Ollama (DeepSeek, LLaMA3) and cloud APIs — wrapped in a custom cinematic sci-fi HUD. | 🟢 Active | Python, Ollama, Flask |
+| [**FaceBlur Live**](https://github.com/Mostafa-Galal-sudo) | Real-time face detection and mosaic-blur privacy tool — MediaPipe + OpenCV, simultaneous audio recording via sounddevice, FFmpeg merge for final output. | 🟢 Active | Python, MediaPipe, FFmpeg |
+| [**TikTok Media Downloader**](https://github.com/Mostafa-Galal-sudo) | Professional customtkinter GUI — watermark-free download, thumbnail preview, video metadata, audio extraction, progress bar. tikwm API. | 📦 Archived | Python, customtkinter |
 
 </details>
 
@@ -145,24 +160,13 @@
 
 | Project | Description | Status | Tech |
 |---------|-------------|--------|------|
-| [**SmartCar OS**](https://github.com/Mostafa-Galal-sudo/SmartCarApp) | Full-stack smart RC car — Android app with 9 control modes (voice AI, gyroscope, camera line-follower, clap detection, music rhythm, draw path), Arduino AVR firmware with servo sweep & obstacle avoidance, real-time cyberpunk web dashboard via WebSocket. Biometric auth, telemetry radar, Web Audio beat detection. | 🟢 Active | React, Arduino, WebSocket |
-| [**S.W.A.R.M**](https://github.com/Mostafa-Galal-sudo) | Smart Wireless Autonomous Reactive Mobile — HC-SR04 + L298N + HC-05 BT, 5-state decision system, Flask+SocketIO dashboard (Simple/Complex/Military/Engineering modes), PySerial bridge, Argon2 auth, SQLite logging. | 📦 Archived | Python, Flask, Arduino |
+| [**S.W.A.R.M.**](https://github.com/Mostafa-Galal-sudo) | Smart Wireless Autonomous Reactive Mobile — HC-SR04 + L298N + HC-05 Bluetooth, 5-state layered decision engine, Flask + Socket.IO real-time dashboard (Simple / Complex / Military / Engineering modes), PySerial bridge, Argon2 auth, SQLite logging. | 🟢 Active | Python, Flask, Arduino |
+| [**SmartCar OS**](https://github.com/Mostafa-Galal-sudo/SmartCarApp) | Full-stack smart RC car — Android app with 9 control modes (voice AI, gyroscope, camera line-follower, clap detection, music rhythm, draw path), Arduino AVR firmware, real-time cyberpunk web dashboard via WebSocket. Biometric auth, telemetry radar, Web Audio beat detection. | 🟢 Active | React, Arduino, WebSocket |
 | [**Smart Recon Vehicle**](https://github.com/youssefsalama-11/Smart-Car-Project) | Bluetooth-controlled rover — differential PWM drive, ATmega328P, UART serial telemetry. | 📦 Archived | C++, AVR |
-| [**Hand Sanitizer Dispenser**](https://github.com/Mostafa-Galal-sudo) | Arduino with HC-SR04 ultrasonic, LCD display, 4-state machine, relay noise isolation. | 📦 Archived | C++, Arduino |
+| [**Hand Sanitizer Dispenser**](https://github.com/Mostafa-Galal-sudo) | Arduino state machine with HC-SR04 ultrasonic, LCD display, relay noise isolation, and periodic LCD refresh logic. | 📦 Archived | C++, Arduino |
 | [**Smart Curtain System**](https://github.com/Mostafa-Galal-sudo) | Pure gate logic — no MCU. AND/OR/NOT gates, Karnaugh-minimized, hazard-free truth table for light/time/manual override inputs. | 📦 Archived | Digital Logic |
-| [**Series RLC Band-Pass**](https://github.com/Mostafa-Galal-sudo) | Passive RLC BPF — f₀ = 1.59 MHz, Q = 12.4, BW = 128 kHz. ngspice AC sim, pass-band ripple < 0.4 dB. | 📦 Archived | ngspice |
+| [**Series RLC Band-Pass Filter**](https://github.com/Mostafa-Galal-sudo) | Passive RLC BPF — f₀ = 1.59 MHz, Q = 12.4, BW = 128 kHz. ngspice AC sim, pass-band ripple < 0.4 dB. | 📦 Archived | ngspice |
 | [**3rd-Order Butterworth BPF**](https://github.com/Mostafa-Galal-sudo) | Maximally flat 3rd-order band-pass — f₀ = 1 MHz, BW = 10 kHz, −60 dB/decade roll-off. | 📦 Archived | ngspice |
-
-</details>
-
-<details>
-<summary><b>🤖 AI, Computer Vision & Automation</b></summary>
-<br>
-
-| Project | Description | Status | Tech |
-|---------|-------------|--------|------|
-| [**FaceBlur Live**](https://github.com/Mostafa-Galal-sudo) | Real-time face detection + mosaic blur — MediaPipe + OpenCV, simultaneous audio recording via sounddevice, FFmpeg merge for final output. | 🟢 Active | Python, MediaPipe, FFmpeg |
-| [**TikTok Media Downloader**](https://github.com/Mostafa-Galal-sudo) | Professional customtkinter GUI — watermark-free download, thumbnail preview, video metadata, audio extraction, progress bar. tikwm API. | 📦 Archived | Python, customtkinter |
 
 </details>
 
@@ -173,7 +177,7 @@
 | Project | Description | Status | Tech |
 |---------|-------------|--------|------|
 | [**cybernetic-canvas**](https://github.com/Mostafa-Galal-sudo/cybernetic-canvas) | Personal portfolio — React + TanStack Router + TypeScript + Cloudflare Workers. Neural network visualization, IDE-style projects workspace, cyberpunk design system. | 🟢 Active | React, TypeScript, Workers |
-| [**CTF Writeups**](https://github.com/Mostafa-Galal-sudo/ctf) | HackTheBox writeups & exploit chains — pwn, RE, crypto, web. BOF, ASLR bypass via format-string leak, AD attack paths, binary analysis. | 🟢 Active | Markdown, Python |
+| [**CTF Writeups**](https://github.com/Mostafa-Galal-sudo/ctf) | HackTheBox writeups & exploit chains — pwn, RE, crypto, web, AD. BOF, ASLR bypass via format-string leak, AD attack paths, binary analysis. | 🟢 Active | Markdown, Python |
 
 </details>
 
@@ -187,7 +191,6 @@
 |-------|---------|-------------|
 | 🎖️ **eJPT** | eLearnSecurity Junior Penetration Tester | INE/eJPT |
 | 🌐 **CCNA** | Cisco Certified Network Associate | Cisco |
-| 🔗 **CCNP** | Cisco Certified Network Professional | Cisco |
 | 🧩 **HackTheBox** | Active Player — pwn · RE · crypto · web · AD | [Profile](https://app.hackthebox.com) |
 
 </div>
@@ -226,7 +229,7 @@
   <img src="https://img.shields.io/badge/Portfolio-cybernetic--canvas-8B0000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/mostafa-galal">
+<a href="https://linkedin.com/in/mostafa-galal-97148b216">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-8B0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
