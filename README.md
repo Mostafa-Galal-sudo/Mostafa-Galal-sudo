@@ -9,6 +9,10 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
+  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&h=300&fit=crop&q=80" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,15:1a0000,35:4a0000,55:8B0000,75:DC143C,90:FF0000,100:000000&height=300&section=header&text=RAYES.0xKRNL&fontSize=80&fontColor=FF0000&fontAlignY=28&desc=Mostafa%20Galal%20%E2%80%94%20ECE%20%C3%97%20Offensive%20Security%20%C3%97%20Embedded%20Death%20Machines&descAlignY=55&descSize=18&animation=twinkling&stroke=FF0000&strokeWidth=3&font=Fira%20Code" width="100%" />
 </p>
 
@@ -62,12 +66,12 @@
 ║   ┌─────────────────────────────────────────────────────────────────────────┐    ║
 ║   │  CODENAME      :  RAYES.0xKRNL                                          │    ║
 ║   │  REAL NAME     :  Mostafa Galal                                         │    ║
-║   │  DESIGNATION   :  Electronics & Communications Engineer                   │    ║
-║   │  SPECIALIZATION:  Low-Level Internals | Binary Exploitation | Pwn        │    ║
-║   │  ARENA         :  Kernel Security | Embedded Death Machines | Red Team    │    ║
+║   │  DESIGNATION   :  Electronics & Communications Engineer                 │    ║
+║   │  SPECIALIZATION:  Low-Level Internals | Binary Exploitation | Pwn       │    ║
+║   │  ARENA         :  Kernel Security | Embedded Death Machines | Red Team  │    ║
 ║   │  CERTS         :  eJPT | CCNA                                           │    ║
 ║   │  BATTLEFIELD   :  HackTheBox | CTF Assassin | Bug Bounty (Licensed)     │    ║
-║   │  PHILOSOPHY    :  "The best defense is understanding the offense."        │    ║
+║   │  PHILOSOPHY    :  "The best defense is understanding the offense."      │    ║
 ║   └─────────────────────────────────────────────────────────────────────────┘    ║
 ║                                                                                  ║
 ║   $ cat /proc/self/status | grep -iE "seccomp|cap"                               ║
@@ -84,7 +88,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://unsplash.com/photos/M3_KpLnW9Uo/download?w=1200&h=150&fit=crop" width="100%" height="150" />
+  <img src="https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=1200&h=150&fit=crop&q=80" width="100%" height="150" />
 </p>
 
 <h3 align="center">💀 LETHAL ARSENAL — WEAPON SYSTEMS 💀</h3>
@@ -162,7 +166,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://unsplash.com/photos/M3_KpLnW9Uo/download?w=1200&h=150&fit=crop" width="100%" height="150" />
+  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&h=150&fit=crop&q=80" width="100%" height="150" />
 </p>
 
 <h3 align="center">📊 VOID TELEMETRY — BATTLE STATISTICS 📊</h3>
@@ -193,7 +197,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://unsplash.com/photos/heNwUmEtZzo/download?w=1200&h=200&fit=crop" width="100%" height="200" />
+  <img src="https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=1200&h=250&fit=crop&q=80" width="100%" height="250" />
 </p>
 
 <h3 align="center">🏴 BLACK OPERATIONS — CLASSIFIED PROJECTS 🏴</h3>
@@ -260,7 +264,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://unsplash.com/photos/M3_KpLnW9Uo/download?w=1200&h=150&fit=crop" width="100%" height="150" />
+  <img src="https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=1200&h=150&fit=crop&q=80" width="100%" height="150" />
 </p>
 
 <h3 align="center">📜 BLOOD OATHS — SECURITY CLEARANCE 📜</h3>
@@ -296,7 +300,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://unsplash.com/photos/euwEsqkAIRs/download?w=1200&h=200&fit=crop" width="100%" height="200" />
+  <img src="https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=1200&h=250&fit=crop&q=80" width="100%" height="250" />
 </p>
 
 <h3 align="center">🐍 NEURAL BLOODPATH — CONTRIBUTION INTELLIGENCE 🐍</h3>
@@ -335,6 +339,10 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
+  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&h=200&fit=crop&q=80" width="100%" height="200" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:000000&height=180&section=footer&text=The%20best%20defense%20is%20understanding%20the%20offense.&fontSize=22&fontColor=FF0000&fontAlignY=65&animation=fadeIn&stroke=FF0000&strokeWidth=2" width="100%" />
 </p>
 
@@ -344,7 +352,7 @@
 ║   The best defense is understanding the offense.                             ║
 ║                                    — RAYES.0xKRNL                            ║
 ║                                                                              ║
-║   [ CONNECTION TERMINATED ] [ TRACE ERASED ] [ NO LOGS FOUND ]              ║
+║   [ CONNECTION TERMINATED ] [ TRACE ERASED ] [ NO LOGS FOUND ]               ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
