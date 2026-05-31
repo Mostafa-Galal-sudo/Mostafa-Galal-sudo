@@ -9,7 +9,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&h=300&fit=crop&q=80" width="100%" />
+  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&q=80" width="100%" />
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=1200&h=150&fit=crop&q=80" width="100%" height="150" />
+  <img src="https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=1200&q=80" width="100%" />
 </p>
 
 <h3 align="center">💀 LETHAL ARSENAL — WEAPON SYSTEMS 💀</h3>
@@ -166,7 +166,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&h=150&fit=crop&q=80" width="100%" height="150" />
+  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&q=80" width="100%" />
 </p>
 
 <h3 align="center">📊 VOID TELEMETRY — BATTLE STATISTICS 📊</h3>
@@ -197,7 +197,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=1200&h=250&fit=crop&q=80" width="100%" height="250" />
+  <img src="https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=1200&q=80" width="100%" />
 </p>
 
 <h3 align="center">🏴 BLACK OPERATIONS — CLASSIFIED PROJECTS 🏴</h3>
@@ -264,7 +264,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=1200&h=150&fit=crop&q=80" width="100%" height="150" />
+  <img src="https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=1200&q=80" width="100%" />
 </p>
 
 <h3 align="center">📜 BLOOD OATHS — SECURITY CLEARANCE 📜</h3>
@@ -300,7 +300,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=1200&h=250&fit=crop&q=80" width="100%" height="250" />
+  <img src="https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=1200&q=80" width="100%" />
 </p>
 
 <h3 align="center">🐍 NEURAL BLOODPATH — CONTRIBUTION INTELLIGENCE 🐍</h3>
@@ -339,7 +339,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&h=200&fit=crop&q=80" width="100%" height="200" />
+  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&q=80" width="100%" />
 </p>
 
 <p align="center">
