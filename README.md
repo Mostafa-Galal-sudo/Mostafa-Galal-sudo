@@ -62,12 +62,12 @@
 ║   ┌─────────────────────────────────────────────────────────────────────────┐    ║
 ║   │  CODENAME      :  RAYES.0xKRNL                                          │    ║
 ║   │  REAL NAME     :  Mostafa Galal                                         │    ║
-║   │  DESIGNATION   :  Electronics & Communications Engineer                   │    ║
-║   │  SPECIALIZATION:  Low-Level Internals | Binary Exploitation | Pwn        │    ║
-║   │  ARENA         :  Kernel Security | Embedded Death Machines | Red Team    │    ║
+║   │  DESIGNATION   :  Electronics & Communications Engineer                 │    ║
+║   │  SPECIALIZATION:  Low-Level Internals | Binary Exploitation | Pwn       │    ║
+║   │  ARENA         :  Kernel Security | Embedded Death Machines | Red Team  │    ║
 ║   │  CERTS         :  eJPT | CCNA                                           │    ║
 ║   │  BATTLEFIELD   :  HackTheBox | CTF Assassin | Bug Bounty (Licensed)     │    ║
-║   │  PHILOSOPHY    :  "The best defense is understanding the offense."        │    ║
+║   │  PHILOSOPHY    :  "The best defense is understanding the offense."      │    ║
 ║   └─────────────────────────────────────────────────────────────────────────┘    ║
 ║                                                                                  ║
 ║   $ cat /proc/self/status | grep -iE "seccomp|cap"                               ║
@@ -324,7 +324,7 @@
 ║   The best defense is understanding the offense.                             ║
 ║                                    — RAYES.0xKRNL                            ║
 ║                                                                              ║
-║   [ CONNECTION TERMINATED ] [ TRACE ERASED ] [ NO LOGS FOUND ]              ║
+║   [ CONNECTION TERMINATED ] [ TRACE ERASED ] [ NO LOGS FOUND ]               ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
