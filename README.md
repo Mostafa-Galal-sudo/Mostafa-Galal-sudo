@@ -62,12 +62,12 @@
 ║   ┌─────────────────────────────────────────────────────────────────────────┐    ║
 ║   │  CODENAME      :  RAYES.0xKRNL                                          │    ║
 ║   │  REAL NAME     :  Mostafa Galal                                         │    ║
-║   │  DESIGNATION   :  Electronics & Communications Engineer                 │    ║
-║   │  SPECIALIZATION:  Low-Level Internals | Binary Exploitation | Pwn       │    ║
-║   │  ARENA         :  Kernel Security | Embedded Death Machines | Red Team  │    ║
+║   │  DESIGNATION   :  Electronics & Communications Engineer                   │    ║
+║   │  SPECIALIZATION:  Low-Level Internals | Binary Exploitation | Pwn        │    ║
+║   │  ARENA         :  Kernel Security | Embedded Death Machines | Red Team    │    ║
 ║   │  CERTS         :  eJPT | CCNA                                           │    ║
 ║   │  BATTLEFIELD   :  HackTheBox | CTF Assassin | Bug Bounty (Licensed)     │    ║
-║   │  PHILOSOPHY    :  "The best defense is understanding the offense."      │    ║
+║   │  PHILOSOPHY    :  "The best defense is understanding the offense."        │    ║
 ║   └─────────────────────────────────────────────────────────────────────────┘    ║
 ║                                                                                  ║
 ║   $ cat /proc/self/status | grep -iE "seccomp|cap"                               ║
@@ -82,6 +82,10 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    WEAPON SYSTEMS ARSENAL                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://unsplash.com/photos/M3_KpLnW9Uo/download?w=1200&h=150&fit=crop" width="100%" height="150" />
+</p>
 
 <h3 align="center">💀 LETHAL ARSENAL — WEAPON SYSTEMS 💀</h3>
 
@@ -157,6 +161,10 @@
 <!--                    BATTLE STATISTICS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<p align="center">
+  <img src="https://unsplash.com/photos/M3_KpLnW9Uo/download?w=1200&h=150&fit=crop" width="100%" height="150" />
+</p>
+
 <h3 align="center">📊 VOID TELEMETRY — BATTLE STATISTICS 📊</h3>
 
 <p align="center">
@@ -183,6 +191,10 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    BLACK OPERATIONS                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://unsplash.com/photos/heNwUmEtZzo/download?w=1200&h=200&fit=crop" width="100%" height="200" />
+</p>
 
 <h3 align="center">🏴 BLACK OPERATIONS — CLASSIFIED PROJECTS 🏴</h3>
 
@@ -247,6 +259,10 @@
 <!--                    CLEARANCE & CREDENTIALS                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<p align="center">
+  <img src="https://unsplash.com/photos/M3_KpLnW9Uo/download?w=1200&h=150&fit=crop" width="100%" height="150" />
+</p>
+
 <h3 align="center">📜 BLOOD OATHS — SECURITY CLEARANCE 📜</h3>
 
 <p align="center">
@@ -278,6 +294,10 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    ACTIVITY INTELLIGENCE                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://unsplash.com/photos/euwEsqkAIRs/download?w=1200&h=200&fit=crop" width="100%" height="200" />
+</p>
 
 <h3 align="center">🐍 NEURAL BLOODPATH — CONTRIBUTION INTELLIGENCE 🐍</h3>
 
@@ -324,7 +344,7 @@
 ║   The best defense is understanding the offense.                             ║
 ║                                    — RAYES.0xKRNL                            ║
 ║                                                                              ║
-║   [ CONNECTION TERMINATED ] [ TRACE ERASED ] [ NO LOGS FOUND ]               ║
+║   [ CONNECTION TERMINATED ] [ TRACE ERASED ] [ NO LOGS FOUND ]              ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
