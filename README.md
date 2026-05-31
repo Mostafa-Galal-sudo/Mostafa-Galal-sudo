@@ -9,7 +9,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&q=80" width="100%" />
+  <img src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=80" width="100%" />
 </p>
 
 <p align="center">
@@ -56,6 +56,10 @@
 <!--                    OPERATIVE PROFILE                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1516934024742-b461fba47600?w=1200&q=80" width="100%" />
+</p>
+
 <h3 align="center">🔴 OPERATIVE PROFILE 🔴</h3>
 
 ```
@@ -88,7 +92,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=1200&q=80" width="100%" />
+  <img src="https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=1200&q=80" width="100%" />
 </p>
 
 <h3 align="center">💀 LETHAL ARSENAL — WEAPON SYSTEMS 💀</h3>
@@ -166,7 +170,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&q=80" width="100%" />
+  <img src="https://images.unsplash.com/photo-1518235506717-e1ed3306a89b?w=1200&q=80" width="100%" />
 </p>
 
 <h3 align="center">📊 VOID TELEMETRY — BATTLE STATISTICS 📊</h3>
@@ -197,7 +201,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=1200&q=80" width="100%" />
+  <img src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&q=80" width="100%" />
 </p>
 
 <h3 align="center">🏴 BLACK OPERATIONS — CLASSIFIED PROJECTS 🏴</h3>
@@ -264,7 +268,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=1200&q=80" width="100%" />
+  <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=1200&q=80" width="100%" />
 </p>
 
 <h3 align="center">📜 BLOOD OATHS — SECURITY CLEARANCE 📜</h3>
@@ -300,7 +304,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=1200&q=80" width="100%" />
+  <img src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&q=80" width="100%" />
 </p>
 
 <h3 align="center">🐍 NEURAL BLOODPATH — CONTRIBUTION INTELLIGENCE 🐍</h3>
@@ -323,6 +327,10 @@
 <!--                    SECURE COMMUNICATIONS                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=1200&q=80" width="100%" />
+</p>
+
 <h3 align="center">📡 DEAD DROPS — SECURE COMMUNICATIONS 📡</h3>
 
 <p align="center">
@@ -339,7 +347,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&q=80" width="100%" />
+  <img src="https://images.unsplash.com/photo-1507400492013-162706c8c05e?w=1200&q=80" width="100%" />
 </p>
 
 <p align="center">
