@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=120&lines=Electronics+%26+Communications+Engineer;Red+Team+Operator+%7C+CTF+Assassin+%7C+Bug+Hunter;Low-Level+Internals+%7C+Binary+Exploitation+%7C+Kernel+Security;Embedded+Smart+Systems+%7C+AI+Offensive+Tooling;%5B+SYSTEM+BREACH+DETECTED+%E2%80%94+ROOT+ACCESS+GRANTED+%5D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Electronics+%26+Communications+Engineer;Red+Team+Operator+%7C+CTF+Assassin+%7C+Bug+Hunter;Low-Level+Internals+%7C+Binary+Exploitation+%7C+Kernel+Security;Embedded+Smart+Systems+%7C+AI+Offensive+Tooling;%5B+SYSTEM+BREACH+DETECTED+%E2%80%94+ROOT+ACCESS+GRANTED+%5D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -192,28 +192,24 @@
 ## <p align="center">📊 VOID TELEMETRY — BATTLE STATISTICS</p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mostafa-Galal-sudo&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=8B0000&text_color=FFFFFF&count_private=true&include_all_commits=true&line_height=24&custom_title=ElFa7L%20%7C%20VOID%20STATS&ring=FF0000&fire=8B0000&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mostafa-Galal-sudo&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=8B0000&icon_color=FF0000&text_color=000000&count_private=true&include_all_commits=true&line_height=24&custom_title=ElFa7L%20%7C%20VOID%20STATS&ring=8B0000&fire=FF0000&cache_seconds=86400" />
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Galal-sudo&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=8B0000&text_color=FFFFFF&count_private=true&include_all_commits=true&line_height=24&custom_title=ElFa7L%20%7C%20VOID%20STATS&ring=FF0000&fire=8B0000&cache_seconds=86400" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Galal-sudo&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&langs_count=12&hide=html,css&custom_title=LANGUAGE%20DISTRIBUTION&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Galal-sudo&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=8B0000&text_color=000000&langs_count=12&hide=html,css&custom_title=LANGUAGE%20DISTRIBUTION&cache_seconds=86400" />
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Galal-sudo&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&langs_count=12&hide=html,css&custom_title=LANGUAGE%20DISTRIBUTION&cache_seconds=86400" alt="Top Languages" />
-  </picture>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Galal-sudo&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=8B0000&text_color=FFFFFF&custom_title=ElFa7L%20%7C%20VOID%20STATS&v=2" alt="GitHub Stats" />
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Galal-sudo&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&langs_count=8&custom_title=LANGUAGE%20DISTRIBUTION&v=2" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=000000&ring=FF0000&fire=8B0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FF0000&dates=8B0000&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=FFFFFF&ring=8B0000&fire=FF0000&currStreakLabel=8B0000&sideLabels=000000&currStreakNum=000000&sideNums=8B0000&dates=FF0000&cache_seconds=86400" />
-    <img height="195em" src="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=000000&ring=FF0000&fire=8B0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FF0000&dates=8B0000&cache_seconds=86400" alt="GitHub Streak" />
-  </picture>
+  <img height="195em" src="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=000000&ring=FF0000&fire=8B0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FF0000&dates=8B0000&v=2" alt="GitHub Streak" />
 </p>
 
+## <p align="center">🏆 BATTLE HONORS</p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Galal-sudo&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="100%" />
+  <img src="https://img.shields.io/badge/🏆-MULTI--YEAR_CONTRIBUTOR-FF0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🏆-PULL_REQUEST_MERGED-8B0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🏆-ISSUE_CLOSED-FF0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🏆-REPO_CREATED-8B0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🏆-COMMIT_STREAK-FF0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🏆-CODE_REVIEWED-8B0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🏆-SECURITY_RESEARCH-FF0000?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
@@ -221,11 +217,9 @@
 ## <p align="center">🐍 NEURAL BLOODPATH — CONTRIBUTION INTELLIGENCE</p>
 
 <!-- 
-  ⚠️ SETUP REQUIRED: The snake animation below requires the Platane/snk GitHub Action.
-  1. Create .github/workflows/snake.yml in your profile repo
-  2. Use the workflow from: https://github.com/Platane/snk
-  3. Enable Actions permissions: Settings → Actions → General → Read and write permissions
-  4. The SVG will be generated in the 'output' branch
+  SETUP: Create .github/workflows/snake.yml using Platane/snk action.
+  Workflow file: https://github.com/Platane/snk
+  Enable Actions permissions: Settings → Actions → General → Read and write permissions
 -->
 
 <p align="center">
@@ -237,7 +231,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Galal-sudo&bg_color=000000&color=FF0000&line=8B0000&point=FF0000&area=true&hide_border=true&custom_title=ElFa7L%20%7C%20BLOOD%20HEATMAP" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Galal-sudo&bg_color=000000&color=FF0000&line=8B0000&point=FF0000&area=true&hide_border=true&custom_title=ElFa7L%20%7C%20BLOOD%20HEATMAP&v=2" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -276,7 +270,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:000000&height=160&section=footer&text=The%20best%20defense%20is%20understanding%20the%20offense.&fontSize=20&fontColor=FF0000&fontAlignY=65&animation=fadeIn&stroke=FF0000&strokeWidth=1" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:8B0000,70:FF0000,100:000000&height=160&section=footer&text=The%20best%20defense%20is%20understanding%20the%20offense.&fontSize=20&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn&stroke=FF0000&strokeWidth=2" width="100%" alt="Footer Banner" />
 </p>
 
 <p align="center">
