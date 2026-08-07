@@ -192,13 +192,6 @@
 ## <p align="center">📊 VOID TELEMETRY — BATTLE STATISTICS</p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Mostafa-Galal-sudo?style=for-the-badge&logo=github&label=STARS&color=FF0000&labelColor=000000" />
-  <img src="https://img.shields.io/github/followers/Mostafa-Galal-sudo?style=for-the-badge&logo=github&label=FOLLOWERS&color=8B0000&labelColor=000000" />
-  <img src="https://img.shields.io/github/repos/Mostafa-Galal-sudo?style=for-the-badge&logo=github&label=REPOSITORIES&color=FF0000&labelColor=000000" />
-  <img src="https://img.shields.io/github/commit-activity/y/Mostafa-Galal-sudo?style=for-the-badge&logo=github&label=COMMITS%2FYEAR&color=8B0000&labelColor=000000" />
-</p>
-
-<p align="center">
   <img height="195em" src="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=000000&ring=FF0000&fire=8B0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FF0000&dates=8B0000" alt="GitHub Streak" />
 </p>
 
