@@ -192,12 +192,14 @@
 ## <p align="center">📊 VOID TELEMETRY — BATTLE STATISTICS</p>
 
 <p align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Galal-sudo&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=8B0000&text_color=FFFFFF&custom_title=ElFa7L%20%7C%20VOID%20STATS&v=2" alt="GitHub Stats" />
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Galal-sudo&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&langs_count=8&custom_title=LANGUAGE%20DISTRIBUTION&v=2" alt="Top Languages" />
+  <img src="https://img.shields.io/github/stars/Mostafa-Galal-sudo?style=for-the-badge&logo=github&label=STARS&color=FF0000&labelColor=000000" />
+  <img src="https://img.shields.io/github/followers/Mostafa-Galal-sudo?style=for-the-badge&logo=github&label=FOLLOWERS&color=8B0000&labelColor=000000" />
+  <img src="https://img.shields.io/github/repos/Mostafa-Galal-sudo?style=for-the-badge&logo=github&label=REPOSITORIES&color=FF0000&labelColor=000000" />
+  <img src="https://img.shields.io/github/commit-activity/y/Mostafa-Galal-sudo?style=for-the-badge&logo=github&label=COMMITS%2FYEAR&color=8B0000&labelColor=000000" />
 </p>
 
 <p align="center">
-  <img height="195em" src="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=000000&ring=FF0000&fire=8B0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FF0000&dates=8B0000&v=2" alt="GitHub Streak" />
+  <img height="195em" src="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=000000&ring=FF0000&fire=8B0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FF0000&dates=8B0000" alt="GitHub Streak" />
 </p>
 
 ## <p align="center">🏆 BATTLE HONORS</p>
