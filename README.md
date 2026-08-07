@@ -1,85 +1,70 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&h=300&fit=crop&q=80" width="100%" alt="header banner" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,15:1a0000,35:4a0000,55:8B0000,75:DC143C,90:FF0000,100:000000&height=300&section=header&text=ElFa7L&fontSize=90&fontColor=FF0000&fontAlignY=28&desc=Mostafa%20Galal%20%E2%80%94%20ECE%20%C3%97%20Offensive%20Security%20%C3%97%20Embedded%20Systems&descAlignY=55&descSize=18&animation=twinkling&stroke=FF0000&strokeWidth=3&font=Fira%20Code" width="100%" alt="ElFa7L Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,15:1a0000,35:4a0000,55:8B0000,75:DC143C,90:FF0000,100:000000&height=280&section=header&text=ElFa7L&fontSize=85&fontColor=FF0000&fontAlignY=30&desc=Mostafa%20Galal%20%E2%80%94%20ECE%20%C3%97%20Offensive%20Security%20%C3%97%20Embedded%20Systems&descAlignY=55&descSize=17&animation=twinkling&stroke=FF0000&strokeWidth=2&font=Fira%20Code" width="100%" alt="ElFa7L Banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Electronics+%26+Communications+Engineer;Red+Team+Operator+%7C+CTF+Assassin+%7C+Bug+Hunter;Low-Level+Internals+%7C+Binary+Exploitation+%7C+Kernel+Security;Embedded+Smart+Systems+%7C+AI+Offensive+Tooling;The+best+defense+is+understanding+the+offense.;%5B+SYSTEM+BREACH+DETECTED+-+ROOT+ACCESS+GRANTED+%5D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&width=850&height=120&lines=Electronics+%26+Communications+Engineer;Red+Team+Operator+%7C+CTF+Assassin+%7C+Bug+Hunter;Low-Level+Internals+%7C+Binary+Exploitation+%7C+Kernel+Security;Embedded+Smart+Systems+%7C+AI+Offensive+Tooling;%5B+SYSTEM+BREACH+DETECTED+%E2%80%94+ROOT+ACCESS+GRANTED+%5D" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF0000,100:8B0000&height=4&section=header&text=&fontSize=0" width="100%" />
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SYSTEM STATUS DASHBOARD                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TARGET_ID-ElFa7L-FF0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TARGET-ElFa7L-FF0000?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/STATUS-0xBLOOD_ONLINE-FF0000?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/THREAT_LEVEL-MAXIMUM_OVERDRIVE-8B0000?style=for-the-badge&labelColor=000000" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CLEARANCE-ROOT_PRIVILEGES-FF0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/CLEARANCE-ROOT-FF0000?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/MODE-OFFENSIVE_SECURITY-8B0000?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/INTENT-UNDERSTAND_THE_OFFENSE-FF0000?style=for-the-badge&labelColor=000000" />
 </p>
 
 <p align="center">
   <img src="https://hits.sh/github.com/Mostafa-Galal-sudo/Mostafa-Galal-sudo.svg?label=VOID_VIEWS&extraCount=0&color=000000&labelColor=8B0000" alt="Profile Views" />
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Mostafa-Galal-sudo&color=8B0000&label=RECON_VISITS&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    OPERATIVE PROFILE                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">🔴 OPERATIVE PROFILE 🔴</h3>
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                  ║
-║   $ sudo whoami --blood --full-recon --kernel-panic                              ║
-║                                                                                  ║
-║   ┌─────────────────────────────────────────────────────────────────────────┐    ║
-║   │  CODENAME      :  ElFa7L                                                │    ║
-║   │  REAL NAME     :  Mostafa Galal                                         │    ║
-║   │  DESIGNATION   :  Electronics & Communications Engineer                 │    ║
-║   │  SPECIALIZATION:  Low-Level Internals | Binary Exploitation | Pwn       │    ║
-║   │  ARENA         :  Kernel Security | Embedded Systems | Red Team         │    ║
-║   │  CERTS         :  eJPT | CCNA                                           │    ║
-║   │  BATTLEFIELD   :  HackTheBox | CTF Assassin | Bug Bounty (Licensed)     │    ║
-║   │  PHILOSOPHY    :  "The best defense is understanding the offense."      │    ║
-║   └─────────────────────────────────────────────────────────────────────────┘    ║
-║                                                                                  ║
-║   $ cat /proc/self/status | grep -iE "seccomp|cap"                               ║
-║   > CapEff: 0000003fffffffff  <-- FULL CAPABILITIES                              ║
-║   > Seccomp: 0  <-- UNRESTRICTED                                                 ║
-║                                                                                  ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
- 
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    WEAPON SYSTEMS ARSENAL                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## <p align="center">🔴 OPERATIVE PROFILE</p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=1200&h=150&fit=crop&q=80" width="100%" height="150" alt="arsenal divider" />
+  <code style="color:#FF0000; font-size:1.1em;">$ sudo whoami --blood --full-recon --kernel-panic</code>
 </p>
 
-<h3 align="center">💀 LETHAL ARSENAL — WEAPON SYSTEMS 💀</h3>
+| Field | Details |
+|:---|:---|
+| **CODENAME** | `ElFa7L` |
+| **REAL NAME** | Mostafa Galal |
+| **DESIGNATION** | Electronics & Communications Engineer |
+| **SPECIALIZATION** | Low-Level Internals · Binary Exploitation · Pwn |
+| **ARENA** | Kernel Security · Embedded Systems · Red Team |
+| **CERTS** | eJPT · CCNA |
+| **BATTLEFIELD** | HackTheBox · CTFtime · Bug Bounty (Licensed) |
+| **PHILOSOPHY** | *"The best defense is understanding the offense."* |
+
+<p align="center">
+  <code style="color:#8B0000;">CapEff: 0000003fffffffff  &lt;-- FULL CAPABILITIES</code><br>
+  <code style="color:#8B0000;">Seccomp: 0  &lt;-- UNRESTRICTED</code>
+</p>
+
+---
+
+## <p align="center">🎯 2026 PRIMARY OBJECTIVES</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-Kernel_Exploitation-FF0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/FOCUS-Offensive_AI_Tooling-8B0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/FOCUS-Embedded_Security-FF0000?style=for-the-badge&labelColor=000000" />
+</p>
+
+- 🔴 Deep-dive into **Linux kernel exploitation** and **LKM rootkit analysis**
+- 🔴 Build **AI-assisted offensive security tools** (local LLM inference + automation)
+- 🔴 Research **ARM/AVR embedded attack surfaces** and hardware-level persistence
+- 🔴 Publish **CTF writeups** and **responsible disclosure** reports
+- 🔴 Contribute to **open-source security tooling**
+
+---
+
+## <p align="center">💀 LETHAL ARSENAL</p>
 
 <h4 align="center">🎯 Offensive Security & Penetration Testing</h4>
 
@@ -147,67 +132,15 @@
   <a href="https://picoctf.org"><img src="https://img.shields.io/badge/PicoCTF-8B0000?style=for-the-badge&logoColor=FF0000&labelColor=000000" /></a>
 </p>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    BATTLE STATISTICS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&h=150&fit=crop&q=80" width="100%" height="150" alt="stats divider" />
-</p>
-
-<h3 align="center">📊 VOID TELEMETRY — BATTLE STATISTICS 📊</h3>
-
-<!-- GitHub Metrics (generated via GitHub Actions) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mostafa-Galal-sudo/Mostafa-Galal-sudo/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
-
-<br>
-
-<!-- Stats Cards with theme support for dark/light mode -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Galal-sudo&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=8B0000&text_color=FFFFFF&count_private=true&include_all_commits=true&line_height=24&custom_title=ElFa7L%20%7C%20VOID%20STATS&ring=FF0000&fire=8B0000&cache_seconds=86400#gh-dark-mode-only" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Galal-sudo&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=8B0000&icon_color=FF0000&text_color=000000&count_private=true&include_all_commits=true&line_height=24&custom_title=ElFa7L%20%7C%20VOID%20STATS&ring=8B0000&fire=FF0000&cache_seconds=86400#gh-light-mode-only" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Galal-sudo&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&langs_count=12&hide=html,css&custom_title=LANGUAGE%20DISTRIBUTION&cache_seconds=86400#gh-dark-mode-only" />
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Galal-sudo&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=8B0000&text_color=000000&langs_count=12&hide=html,css&custom_title=LANGUAGE%20DISTRIBUTION&cache_seconds=86400#gh-light-mode-only" />
-  </a>
-</p>
-
-<!-- Streak Stats — FIXED: using demolab instead of dead Heroku -->
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img height="200em" src="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=000000&ring=FF0000&fire=8B0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FF0000&dates=8B0000&cache_seconds=86400#gh-dark-mode-only" />
-    <img height="200em" src="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=FFFFFF&ring=8B0000&fire=FF0000&currStreakLabel=8B0000&sideLabels=000000&currStreakNum=000000&sideNums=8B0000&dates=FF0000&cache_seconds=86400#gh-light-mode-only" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Galal-sudo&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="100%" />
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    BLACK OPERATIONS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=1200&h=250&fit=crop&q=80" width="100%" height="250" alt="operations divider" />
-</p>
-
-<h3 align="center">🏴 BLACK OPERATIONS — CLASSIFIED PROJECTS 🏴</h3>
+## <p align="center">🏴 BLACK OPERATIONS — CLASSIFIED PROJECTS</p>
 
 <details>
 <summary><b>🔴 SECURITY TOOLING & OFFENSIVE CAPABILITIES</b></summary>
-<br>
 
-| 🎯 Operation | 📋 Briefing | ⚡ Status | 🛠️ Arsenal |
-|:---:|:---|:---:|:---|
+| Operation | Briefing | Status | Arsenal |
+|:---|:---|:---:|:---|
 | [**PrivEsc-Suite**](https://github.com/Mostafa-Galal-sudo) | Comprehensive Linux privilege escalation framework — 3,300+ lines, 183+ SUID binaries, 55+ sudo NOPASSWD vectors, 13 kernel CVEs (2015–2024), LD_PRELOAD/PYTHONPATH chains, runtime false-positive reduction, and a weighted risk-scoring engine. | 🟢 **ACTIVE** | Bash, Python |
 | [**Shadow Core**](https://github.com/Mostafa-Galal-sudo) | Modular framework for staged payload delivery and controlled listener orchestration. Configuration-driven module graph, multi-stage loader chain, pluggable transports. | 🔒 **PRIVATE** | Python, C |
 | [**Payload Research Toolkit**](https://github.com/Mostafa-Galal-sudo) | Multi-platform payload research toolkit — Windows/Linux/macOS/Python/JS/PowerShell formats, obfuscation pipeline, listener integration. Authorized lab use only. | 🔒 **PRIVATE** | Python, C++ |
@@ -220,10 +153,9 @@
 
 <details>
 <summary><b>🤖 AI SYSTEMS & COMPUTER VISION</b></summary>
-<br>
 
-| 🎯 Operation | 📋 Briefing | ⚡ Status | 🛠️ Arsenal |
-|:---:|:---|:---:|:---|
+| Operation | Briefing | Status | Arsenal |
+|:---|:---|:---:|:---|
 | [**J.A.R.V.I.S. AI Assistant**](https://github.com/Mostafa-Galal-sudo) | Full Iron Man-inspired AI assistant with bilingual (AR/EN) support, wake word detection, long-term memory, and screen awareness. LOCAL/ONLINE hybrid inference engine routing between Ollama (DeepSeek, LLaMA3) and cloud APIs — wrapped in a custom cinematic sci-fi HUD. | 🟢 **ACTIVE** | Python, Ollama, Flask |
 | [**FaceBlur Live**](https://github.com/Mostafa-Galal-sudo) | Real-time face detection and mosaic-blur privacy tool — MediaPipe + OpenCV, simultaneous audio recording via sounddevice, FFmpeg merge for final output. | 🟢 **ACTIVE** | Python, MediaPipe, FFmpeg |
 | [**TikTok Media Downloader**](https://github.com/Mostafa-Galal-sudo) | Professional customtkinter GUI — watermark-free download, thumbnail preview, video metadata, audio extraction, progress bar. tikwm API. | 📦 **ARCHIVED** | Python, customtkinter |
@@ -232,10 +164,9 @@
 
 <details>
 <summary><b>⚙️ EMBEDDED SYSTEMS & HARDWARE</b></summary>
-<br>
 
-| 🎯 Operation | 📋 Briefing | ⚡ Status | 🛠️ Arsenal |
-|:---:|:---|:---:|:---|
+| Operation | Briefing | Status | Arsenal |
+|:---|:---|:---:|:---|
 | [**S.W.A.R.M.**](https://github.com/Mostafa-Galal-sudo) | Smart Wireless Autonomous Reactive Mobile — HC-SR04 + L298N + HC-05 Bluetooth, 5-state layered decision engine, Flask + Socket.IO real-time dashboard (Simple / Complex / Military / Engineering modes), PySerial bridge, Argon2 auth, SQLite logging. | 🟢 **ACTIVE** | Python, Flask, Arduino |
 | [**SmartCar OS**](https://github.com/Mostafa-Galal-sudo/SmartCarApp) | Full-stack smart RC car — Android app with 9 control modes (voice AI, gyroscope, camera line-follower, clap detection, music rhythm, draw path), Arduino AVR firmware, real-time cyberpunk web dashboard via WebSocket. Biometric auth, telemetry radar, Web Audio beat detection. | 🟢 **ACTIVE** | React, Arduino, WebSocket |
 | [**Smart Recon Vehicle**](https://github.com/youssefsalama-11/Smart-Car-Project) | Bluetooth-controlled rover — differential PWM drive, ATmega328P, UART serial telemetry. | 📦 **ARCHIVED** | C++, AVR |
@@ -248,113 +179,111 @@
 
 <details>
 <summary><b>🌐 WEB PORTFOLIO & CTF ARSENAL</b></summary>
-<br>
 
-| 🎯 Operation | 📋 Briefing | ⚡ Status | 🛠️ Arsenal |
-|:---:|:---|:---:|:---|
+| Operation | Briefing | Status | Arsenal |
+|:---|:---|:---:|:---|
 | [**cybernetic-canvas**](https://github.com/Mostafa-Galal-sudo/cybernetic-canvas) | Personal portfolio — React + TanStack Router + TypeScript + Cloudflare Workers. Neural network visualization, IDE-style projects workspace, cyberpunk design system. | 🟢 **ACTIVE** | React, TypeScript, Workers |
 | [**CTF Writeups**](https://github.com/Mostafa-Galal-sudo/ctf) | HackTheBox writeups & exploit chains — pwn, RE, crypto, web, AD. BOF, ASLR bypass via format-string leak, AD attack paths, binary analysis. | 🟢 **ACTIVE** | Markdown, Python |
 
 </details>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CLEARANCE & CREDENTIALS                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## <p align="center">📊 VOID TELEMETRY — BATTLE STATISTICS</p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=1200&h=150&fit=crop&q=80" width="100%" height="150" alt="certs divider" />
-</p>
-
-<h3 align="center">📜 BLOOD OATHS — SECURITY CLEARANCE 📜</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/eJPT-CERTIFIED-FF0000?style=for-the-badge&labelColor=000000" />
-  <br>
-  <b>eLearnSecurity Junior Penetration Tester</b>
-  <br>
-  <sub>INE / eJPT Verification</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mostafa-Galal-sudo&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=8B0000&text_color=FFFFFF&count_private=true&include_all_commits=true&line_height=24&custom_title=ElFa7L%20%7C%20VOID%20STATS&ring=FF0000&fire=8B0000&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mostafa-Galal-sudo&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=8B0000&icon_color=FF0000&text_color=000000&count_private=true&include_all_commits=true&line_height=24&custom_title=ElFa7L%20%7C%20VOID%20STATS&ring=8B0000&fire=FF0000&cache_seconds=86400" />
+    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Galal-sudo&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=8B0000&text_color=FFFFFF&count_private=true&include_all_commits=true&line_height=24&custom_title=ElFa7L%20%7C%20VOID%20STATS&ring=FF0000&fire=8B0000&cache_seconds=86400" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Galal-sudo&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&langs_count=12&hide=html,css&custom_title=LANGUAGE%20DISTRIBUTION&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Galal-sudo&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=8B0000&text_color=000000&langs_count=12&hide=html,css&custom_title=LANGUAGE%20DISTRIBUTION&cache_seconds=86400" />
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Galal-sudo&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&langs_count=12&hide=html,css&custom_title=LANGUAGE%20DISTRIBUTION&cache_seconds=86400" alt="Top Languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CCNA-CERTIFIED-FF0000?style=for-the-badge&labelColor=000000" />
-  <br>
-  <b>Cisco Certified Network Associate</b>
-  <br>
-  <sub>Cisco Verification</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=000000&ring=FF0000&fire=8B0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FF0000&dates=8B0000&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=FFFFFF&ring=8B0000&fire=FF0000&currStreakLabel=8B0000&sideLabels=000000&currStreakNum=000000&sideNums=8B0000&dates=FF0000&cache_seconds=86400" />
+    <img height="195em" src="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=000000&ring=FF0000&fire=8B0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FF0000&dates=8B0000&cache_seconds=86400" alt="GitHub Streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-ACTIVE_PLAYER-FF0000?style=for-the-badge&labelColor=000000" /></a>
-  <br>
-  <b>Active Player — Pwn | RE | Crypto | Web | AD</b>
-  <br>
-  <sub><a href="https://app.hackthebox.com">Profile</a></sub>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Galal-sudo&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" width="100%" />
 </p>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ACTIVITY INTELLIGENCE                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## <p align="center">🐍 NEURAL BLOODPATH — CONTRIBUTION INTELLIGENCE</p>
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=1200&h=250&fit=crop&q=80" width="100%" height="250" alt="activity divider" />
-</p>
-
-<h3 align="center">🐍 NEURAL BLOODPATH — CONTRIBUTION INTELLIGENCE 🐍</h3>
+<!-- 
+  ⚠️ SETUP REQUIRED: The snake animation below requires the Platane/snk GitHub Action.
+  1. Create .github/workflows/snake.yml in your profile repo
+  2. Use the workflow from: https://github.com/Platane/snk
+  3. Enable Actions permissions: Settings → Actions → General → Read and write permissions
+  4. The SVG will be generated in the 'output' branch
+-->
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mostafa-Galal-sudo/Mostafa-Galal-sudo/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mostafa-Galal-sudo/Mostafa-Galal-sudo/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mostafa-Galal-sudo/Mostafa-Galal-sudo/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mostafa-Galal-sudo/Mostafa-Galal-sudo/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Galal-sudo&bg_color=000000&color=FF0000&line=8B0000&point=FF0000&area=true&hide_border=true&custom_title=ElFa7L%20%7C%20BLOOD%20HEATMAP" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Galal-sudo&bg_color=000000&color=FF0000&line=8B0000&point=FF0000&area=true&hide_border=true&custom_title=ElFa7L%20%7C%20BLOOD%20HEATMAP" width="100%" alt="Activity Graph" />
 </p>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SECURE COMMUNICATIONS                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">📡 DEAD DROPS — SECURE COMMUNICATIONS 📡</h3>
+## <p align="center">📜 BLOOD OATHS — SECURITY CLEARANCE</p>
 
 <p align="center">
-  <a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-Profile-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000" /></a>
+  <img src="https://img.shields.io/badge/eJPT-CERTIFIED-FF0000?style=for-the-badge&labelColor=000000" />
+  <br><b>eLearnSecurity Junior Penetration Tester</b><br>
+  <sub>INE / eJPT Verification</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CCNA-CERTIFIED-FF0000?style=for-the-badge&labelColor=000000" />
+  <br><b>Cisco Certified Network Associate</b><br>
+  <sub>Cisco Verification</sub>
+</p>
+
+<p align="center">
+  <a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-ACTIVE_PLAYER-FF0000?style=for-the-badge&labelColor=000000" /></a>
+  <br><b>Active Player — Pwn | RE | Crypto | Web | AD</b><br>
+  <sub><a href="https://app.hackthebox.com">Profile</a></sub>
+</p>
+
+---
+
+## <p align="center">📡 DEAD DROPS — SECURE COMMUNICATIONS</p>
+
+<p align="center">
+  <a href="https://app.hackthebox.com/profile/ElFa7L"><img src="https://img.shields.io/badge/HackTheBox-Profile-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000" /></a>
   <a href="https://github.com/Mostafa-Galal-sudo/cybernetic-canvas"><img src="https://img.shields.io/badge/Portfolio-cybernetic--canvas-8B0000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" /></a>
   <a href="https://linkedin.com/in/mostafa-galal-97148b216"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
   <a href="https://github.com/Mostafa-Galal-sudo"><img src="https://img.shields.io/badge/GitHub-ElFa7L-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
 </p>
 
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TERMINATION SEQUENCE                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&h=200&fit=crop&q=80" width="100%" height="200" alt="footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:000000&height=160&section=footer&text=The%20best%20defense%20is%20understanding%20the%20offense.&fontSize=20&fontColor=FF0000&fontAlignY=65&animation=fadeIn&stroke=FF0000&strokeWidth=1" width="100%" alt="Footer Banner" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:000000&height=180&section=footer&text=The%20best%20defense%20is%20understanding%20the%20offense.&fontSize=22&fontColor=FF0000&fontAlignY=65&animation=fadeIn&stroke=FF0000&strokeWidth=2" width="100%" />
+  <code style="color:#FF0000;">The best defense is understanding the offense.</code><br>
+  <code style="color:#8B0000;">— ElFa7L</code>
 </p>
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   The best defense is understanding the offense.                             ║
-║                                    — ElFa7L                                  ║
-║                                                                              ║
-║   [ CONNECTION TERMINATED ] [ TRACE ERASED ] [ NO LOGS FOUND ]               ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
- 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF0000,100:8B0000&height=3&section=header&text=&fontSize=0" width="100%" />
+  <sub><code style="color:#333;">[ CONNECTION TERMINATED ] [ TRACE ERASED ] [ NO LOGS FOUND ]</code></sub>
 </p>
