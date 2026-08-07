@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&h=300&fit=crop&q=80" width="100%" />
+  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&h=300&fit=crop&q=80" width="100%" alt="header banner" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,15:1a0000,35:4a0000,55:8B0000,75:DC143C,90:FF0000,100:000000&height=300&section=header&text=RAYES.0xKRNL&fontSize=80&fontColor=FF0000&fontAlignY=28&desc=Mostafa%20Galal%20%E2%80%94%20ECE%20%C3%97%20Offensive%20Security%20%C3%97%20Embedded%20Death%20Machines&descAlignY=55&descSize=18&animation=twinkling&stroke=FF0000&strokeWidth=3&font=Fira%20Code" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,15:1a0000,35:4a0000,55:8B0000,75:DC143C,90:FF0000,100:000000&height=300&section=header&text=ElFa7L&fontSize=90&fontColor=FF0000&fontAlignY=28&desc=Mostafa%20Galal%20%E2%80%94%20ECE%20%C3%97%20Offensive%20Security%20%C3%97%20Embedded%20Systems&descAlignY=55&descSize=18&animation=twinkling&stroke=FF0000&strokeWidth=3&font=Fira%20Code" width="100%" alt="ElFa7L Banner" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TARGET_ID-RAYES.0xKRNL-FF0000?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TARGET_ID-ElFa7L-FF0000?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/STATUS-0xBLOOD_ONLINE-FF0000?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/THREAT_LEVEL-MAXIMUM_OVERDRIVE-8B0000?style=for-the-badge&labelColor=000000" />
 </p>
@@ -35,9 +35,9 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.sh/github.com/Mostafa-Galal-sudo/Mostafa-Galal-sudo.svg?label=VOID_VIEWS&extraCount=0&color=000000&labelColor=8B0000" />
+  <img src="https://hits.sh/github.com/Mostafa-Galal-sudo/Mostafa-Galal-sudo.svg?label=VOID_VIEWS&extraCount=0&color=000000&labelColor=8B0000" alt="Profile Views" />
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Mostafa-Galal-sudo&color=8B0000&label=RECON_VISITS&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Mostafa-Galal-sudo&color=8B0000&label=RECON_VISITS&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <br>
@@ -47,18 +47,16 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h3 align="center">🔴 OPERATIVE PROFILE 🔴</h3>
-
-```
 ╔══════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                  ║
 ║   $ sudo whoami --blood --full-recon --kernel-panic                              ║
 ║                                                                                  ║
 ║   ┌─────────────────────────────────────────────────────────────────────────┐    ║
-║   │  CODENAME      :  RAYES.0xKRNL                                          │    ║
+║   │  CODENAME      :  ElFa7L                                                │    ║
 ║   │  REAL NAME     :  Mostafa Galal                                         │    ║
 ║   │  DESIGNATION   :  Electronics & Communications Engineer                 │    ║
 ║   │  SPECIALIZATION:  Low-Level Internals | Binary Exploitation | Pwn       │    ║
-║   │  ARENA         :  Kernel Security | Embedded Death Machines | Red Team  │    ║
+║   │  ARENA         :  Kernel Security | Embedded Systems | Red Team         │    ║
 ║   │  CERTS         :  eJPT | CCNA                                           │    ║
 ║   │  BATTLEFIELD   :  HackTheBox | CTF Assassin | Bug Bounty (Licensed)     │    ║
 ║   │  PHILOSOPHY    :  "The best defense is understanding the offense."      │    ║
@@ -69,7 +67,7 @@
 ║   > Seccomp: 0  <-- UNRESTRICTED                                                 ║
 ║                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
-```
+ 
 
 <br>
 
@@ -78,7 +76,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=1200&h=150&fit=crop&q=80" width="100%" height="150" />
+  <img src="https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=1200&h=150&fit=crop&q=80" width="100%" height="150" alt="arsenal divider" />
 </p>
 
 <h3 align="center">💀 LETHAL ARSENAL — WEAPON SYSTEMS 💀</h3>
@@ -156,24 +154,36 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&h=150&fit=crop&q=80" width="100%" height="150" />
+  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&h=150&fit=crop&q=80" width="100%" height="150" alt="stats divider" />
 </p>
 
 <h3 align="center">📊 VOID TELEMETRY — BATTLE STATISTICS 📊</h3>
 
+<!-- GitHub Metrics (generated via GitHub Actions) -->
 <p align="center">
-  <img src="/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/Mostafa-Galal-sudo/Mostafa-Galal-sudo/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
 <br>
 
+<!-- Stats Cards with theme support for dark/light mode -->
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Galal-sudo&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=8B0000&text_color=FFFFFF&count_private=true&include_all_commits=true&line_height=24&custom_title=0xKRNL%20%7C%20VOID%20STATS&ring=FF0000&fire=8B0000" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Galal-sudo&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&langs_count=12&hide=html,css&custom_title=LANGUAGE%20DISTRIBUTION" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Galal-sudo&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=8B0000&text_color=FFFFFF&count_private=true&include_all_commits=true&line_height=24&custom_title=ElFa7L%20%7C%20VOID%20STATS&ring=FF0000&fire=8B0000&cache_seconds=86400#gh-dark-mode-only" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Galal-sudo&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=8B0000&icon_color=FF0000&text_color=000000&count_private=true&include_all_commits=true&line_height=24&custom_title=ElFa7L%20%7C%20VOID%20STATS&ring=8B0000&fire=FF0000&cache_seconds=86400#gh-light-mode-only" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Galal-sudo&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&langs_count=12&hide=html,css&custom_title=LANGUAGE%20DISTRIBUTION&cache_seconds=86400#gh-dark-mode-only" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Galal-sudo&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=8B0000&text_color=000000&langs_count=12&hide=html,css&custom_title=LANGUAGE%20DISTRIBUTION&cache_seconds=86400#gh-light-mode-only" />
+  </a>
 </p>
 
+<!-- Streak Stats — FIXED: using demolab instead of dead Heroku -->
 <p align="center">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Galal-sudo&hide_border=true&background=000000&ring=FF0000&fire=8B0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FF0000&dates=8B0000" />
+  <a href="https://git.io/streak-stats">
+    <img height="200em" src="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=000000&ring=FF0000&fire=8B0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FF0000&dates=8B0000&cache_seconds=86400#gh-dark-mode-only" />
+    <img height="200em" src="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=FFFFFF&ring=8B0000&fire=FF0000&currStreakLabel=8B0000&sideLabels=000000&currStreakNum=000000&sideNums=8B0000&dates=FF0000&cache_seconds=86400#gh-light-mode-only" />
+  </a>
 </p>
 
 <p align="center">
@@ -187,7 +197,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=1200&h=250&fit=crop&q=80" width="100%" height="250" />
+  <img src="https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=1200&h=250&fit=crop&q=80" width="100%" height="250" alt="operations divider" />
 </p>
 
 <h3 align="center">🏴 BLACK OPERATIONS — CLASSIFIED PROJECTS 🏴</h3>
@@ -254,7 +264,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=1200&h=150&fit=crop&q=80" width="100%" height="150" />
+  <img src="https://images.unsplash.com/photo-1519074069444-1ba4fff66d16?w=1200&h=150&fit=crop&q=80" width="100%" height="150" alt="certs divider" />
 </p>
 
 <h3 align="center">📜 BLOOD OATHS — SECURITY CLEARANCE 📜</h3>
@@ -290,7 +300,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=1200&h=250&fit=crop&q=80" width="100%" height="250" />
+  <img src="https://images.unsplash.com/photo-1505506874110-6a7a69069a08?w=1200&h=250&fit=crop&q=80" width="100%" height="250" alt="activity divider" />
 </p>
 
 <h3 align="center">🐍 NEURAL BLOODPATH — CONTRIBUTION INTELLIGENCE 🐍</h3>
@@ -298,13 +308,13 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mostafa-Galal-sudo/Mostafa-Galal-sudo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mostafa-Galal-sudo/Mostafa-Galal-sudo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mostafa-Galal-sudo/Mostafa-Galal-sudo/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mostafa-Galal-sudo/Mostafa-Galal-sudo/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Galal-sudo&bg_color=000000&color=FF0000&line=8B0000&point=FF0000&area=true&hide_border=true&custom_title=0xKRNL%20%7C%20BLOOD%20HEATMAP" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Galal-sudo&bg_color=000000&color=FF0000&line=8B0000&point=FF0000&area=true&hide_border=true&custom_title=ElFa7L%20%7C%20BLOOD%20HEATMAP" width="100%" />
 </p>
 
 <br>
@@ -319,7 +329,7 @@
   <a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-Profile-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000" /></a>
   <a href="https://github.com/Mostafa-Galal-sudo/cybernetic-canvas"><img src="https://img.shields.io/badge/Portfolio-cybernetic--canvas-8B0000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" /></a>
   <a href="https://linkedin.com/in/mostafa-galal-97148b216"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
-  <a href="https://github.com/Mostafa-Galal-sudo"><img src="https://img.shields.io/badge/GitHub-0xKRNL-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
+  <a href="https://github.com/Mostafa-Galal-sudo"><img src="https://img.shields.io/badge/GitHub-ElFa7L-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
 </p>
 
 <br>
@@ -329,23 +339,21 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&h=200&fit=crop&q=80" width="100%" height="200" />
+  <img src="https://images.unsplash.com/photo-1505635552518-3448ff116af3?w=1200&h=200&fit=crop&q=80" width="100%" height="200" alt="footer banner" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:000000&height=180&section=footer&text=The%20best%20defense%20is%20understanding%20the%20offense.&fontSize=22&fontColor=FF0000&fontAlignY=65&animation=fadeIn&stroke=FF0000&strokeWidth=2" width="100%" />
 </p>
-
-```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
 ║   The best defense is understanding the offense.                             ║
-║                                    — RAYES.0xKRNL                            ║
+║                                    — ElFa7L                                  ║
 ║                                                                              ║
 ║   [ CONNECTION TERMINATED ] [ TRACE ERASED ] [ NO LOGS FOUND ]               ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
-```
+ 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:FF0000,100:8B0000&height=3&section=header&text=&fontSize=0" width="100%" />
