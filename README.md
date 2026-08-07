@@ -1,13 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,15:1a0000,35:4a0000,55:8B0000,75:DC143C,90:FF0000,100:000000&height=280&section=header&text=ElFa7L&fontSize=85&fontColor=FF0000&fontAlignY=30&desc=Mostafa%20Galal%20%E2%80%94%20ECE%20%C3%97%20Offensive%20Security%20%C3%97%20Embedded%20Systems&descAlignY=55&descSize=17&animation=twinkling&stroke=FF0000&strokeWidth=2&font=Fira%20Code" width="100%" alt="ElFa7L Banner" />
 </p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Electronics+%26+Communications+Engineer;Red+Team+Operator+%7C+CTF+Assassin+%7C+Bug+Hunter;Low-Level+Internals+%7C+Binary+Exploitation+%7C+Kernel+Security;Embedded+Smart+Systems+%7C+AI+Offensive+Tooling;%5B+SYSTEM+BREACH+DETECTED+%E2%80%94+ROOT+ACCESS+GRANTED+%5D" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/TARGET-ElFa7L-FF0000?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/STATUS-0xBLOOD_ONLINE-FF0000?style=for-the-badge&labelColor=000000" />
@@ -15,59 +13,44 @@
   <img src="https://img.shields.io/badge/CLEARANCE-ROOT-FF0000?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/MODE-OFFENSIVE_SECURITY-8B0000?style=for-the-badge&labelColor=000000" />
 </p>
-
 <p align="center">
   <img src="https://hits.sh/github.com/Mostafa-Galal-sudo/Mostafa-Galal-sudo.svg?label=VOID_VIEWS&extraCount=0&color=000000&labelColor=8B0000" alt="Profile Views" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Mostafa-Galal-sudo&color=8B0000&label=RECON_VISITS&style=for-the-badge" alt="Profile Views" />
 </p>
-
 ---
-
-## <p align="center">🔴 OPERATIVE PROFILE</p>
-
+<p align="center">🔴 OPERATIVE PROFILE</p>
 <p align="center">
   <code style="color:#FF0000; font-size:1.1em;">$ sudo whoami --blood --full-recon --kernel-panic</code>
 </p>
-
-| Field | Details |
-|:---|:---|
-| **CODENAME** | `ElFa7L` |
-| **REAL NAME** | Mostafa Galal |
-| **DESIGNATION** | Electronics & Communications Engineer |
-| **SPECIALIZATION** | Low-Level Internals · Binary Exploitation · Pwn |
-| **ARENA** | Kernel Security · Embedded Systems · Red Team |
-| **CERTS** | eJPT · CCNA |
-| **BATTLEFIELD** | HackTheBox · CTFtime · Bug Bounty (Licensed) |
-| **PHILOSOPHY** | *"The best defense is understanding the offense."* |
-
+Field	Details
+CODENAME	`ElFa7L`
+REAL NAME	Mostafa Galal
+DESIGNATION	Electronics & Communications Engineer
+SPECIALIZATION	Low-Level Internals · Binary Exploitation · Pwn
+ARENA	Kernel Security · Embedded Systems · Red Team
+CERTS	eJPT · CCNA
+BATTLEFIELD	HackTheBox · CTFtime · Bug Bounty (Licensed)
+PHILOSOPHY	"The best defense is understanding the offense."
 <p align="center">
   <code style="color:#8B0000;">CapEff: 0000003fffffffff  &lt;-- FULL CAPABILITIES</code><br>
   <code style="color:#8B0000;">Seccomp: 0  &lt;-- UNRESTRICTED</code>
 </p>
-
 ---
-
-## <p align="center">🎯 2026 PRIMARY OBJECTIVES</p>
-
+<p align="center">🎯 2026 PRIMARY OBJECTIVES</p>
 <p align="center">
   <img src="https://img.shields.io/badge/FOCUS-Kernel_Exploitation-FF0000?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/FOCUS-Offensive_AI_Tooling-8B0000?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/FOCUS-Embedded_Security-FF0000?style=for-the-badge&labelColor=000000" />
 </p>
-
-- 🔴 Deep-dive into **Linux kernel exploitation** and **LKM rootkit analysis**
-- 🔴 Build **AI-assisted offensive security tools** (local LLM inference + automation)
-- 🔴 Research **ARM/AVR embedded attack surfaces** and hardware-level persistence
-- 🔴 Publish **CTF writeups** and **responsible disclosure** reports
-- 🔴 Contribute to **open-source security tooling**
-
+🔴 Deep-dive into Linux kernel exploitation and LKM rootkit analysis
+🔴 Build AI-assisted offensive security tools (local LLM inference + automation)
+🔴 Research ARM/AVR embedded attack surfaces and hardware-level persistence
+🔴 Publish CTF writeups and responsible disclosure reports
+🔴 Contribute to open-source security tooling
 ---
-
-## <p align="center">💀 LETHAL ARSENAL</p>
-
+<p align="center">💀 LETHAL ARSENAL</p>
 <h4 align="center">🎯 Offensive Security & Penetration Testing</h4>
-
 <p align="center">
   <a href="https://www.kali.org"><img src="https://img.shields.io/badge/Kali_Linux-8B0000?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=000000" /></a>
   <a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/Burp_Suite-8B0000?style=for-the-badge&logo=burp-suite&logoColor=white&labelColor=000000" /></a>
@@ -80,9 +63,7 @@
   <a href="https://github.com/BloodHoundAD/BloodHound"><img src="https://img.shields.io/badge/BloodHound-8B0000?style=for-the-badge&logo=graphql&logoColor=white&labelColor=000000" /></a>
   <a href="https://github.com/fortra/impacket"><img src="https://img.shields.io/badge/Impacket-8B0000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" /></a>
 </p>
-
 <h4 align="center">⚙️ Low-Level & Binary Exploitation</h4>
-
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/X86_assembly_language"><img src="https://img.shields.io/badge/Assembly-x86_x64_ARM-8B0000?style=for-the-badge&logo=amd&logoColor=white&labelColor=000000" /></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-8B0000?style=for-the-badge&logo=c&logoColor=white&labelColor=000000" /></a>
@@ -94,9 +75,7 @@
   <a href="https://frida.re"><img src="https://img.shields.io/badge/Frida-8B0000?style=for-the-badge&logoColor=FF0000&labelColor=000000" /></a>
   <a href="https://www.qemu.org"><img src="https://img.shields.io/badge/QEMU-8B0000?style=for-the-badge&logoColor=FF0000&labelColor=000000" /></a>
 </p>
-
 <h4 align="center">🤖 AI, Computer Vision & Embedded Systems</h4>
-
 <p align="center">
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" /></a>
   <a href="https://www.arduino.cc"><img src="https://img.shields.io/badge/Arduino-8B0000?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000" /></a>
@@ -108,9 +87,7 @@
   <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-8B0000?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000" /></a>
   <a href="https://flask.palletsprojects.com"><img src="https://img.shields.io/badge/Flask-8B0000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000" /></a>
 </p>
-
 <h4 align="center">🌐 Web, Cloud & Infrastructure</h4>
-
 <p align="center">
   <a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-8B0000?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000" /></a>
   <a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-8B0000?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000" /></a>
@@ -122,81 +99,56 @@
   <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" /></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-8B0000?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000" /></a>
 </p>
-
 <h4 align="center">🏴‍☠️ CTF Platforms & Battlefields</h4>
-
 <p align="center">
   <a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000" /></a>
   <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-8B0000?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=000000" /></a>
   <a href="https://ctftime.org"><img src="https://img.shields.io/badge/CTFtime-8B0000?style=for-the-badge&logoColor=FF0000&labelColor=000000" /></a>
   <a href="https://picoctf.org"><img src="https://img.shields.io/badge/PicoCTF-8B0000?style=for-the-badge&logoColor=FF0000&labelColor=000000" /></a>
 </p>
-
 ---
-
-## <p align="center">🏴 BLACK OPERATIONS — CLASSIFIED PROJECTS</p>
-
+<p align="center">🏴 BLACK OPERATIONS — CLASSIFIED PROJECTS</p>
 <details>
 <summary><b>🔴 SECURITY TOOLING & OFFENSIVE CAPABILITIES</b></summary>
-
-| Operation | Briefing | Status | Arsenal |
-|:---|:---|:---:|:---|
-| [**PrivEsc-Suite**](https://github.com/Mostafa-Galal-sudo) | Comprehensive Linux privilege escalation framework — 3,300+ lines, 183+ SUID binaries, 55+ sudo NOPASSWD vectors, 13 kernel CVEs (2015–2024), LD_PRELOAD/PYTHONPATH chains, runtime false-positive reduction, and a weighted risk-scoring engine. | 🟢 **ACTIVE** | Bash, Python |
-| [**Shadow Core**](https://github.com/Mostafa-Galal-sudo) | Modular framework for staged payload delivery and controlled listener orchestration. Configuration-driven module graph, multi-stage loader chain, pluggable transports. | 🔒 **PRIVATE** | Python, C |
-| [**Payload Research Toolkit**](https://github.com/Mostafa-Galal-sudo) | Multi-platform payload research toolkit — Windows/Linux/macOS/Python/JS/PowerShell formats, obfuscation pipeline, listener integration. Authorized lab use only. | 🔒 **PRIVATE** | Python, C++ |
-| [**Endpoint Telemetry Logger**](https://github.com/Mostafa-Galal-sudo) | Stealth kernel-adjacent tool for keystroke and mouse event capture — built for malware behavior research and EDR detection-gap analysis. Async transport, JSON session logging. | 📦 **ARCHIVED** | Python, Socket |
-| [**TCP Full Scan Tool**](https://github.com/Mostafa-Galal-sudo) | Async TCP full-port scanner (1–65535) — asyncio semaphore concurrency, banner grabbing, well-known service fallback, CSV export. | 🟢 **ACTIVE** | Python |
-| [**NM Analyzer**](https://github.com/Mostafa-Galal-sudo) | Static analysis engine for Linux Kernel Modules — symbol-table heuristics detect rootkits, privesc symbols, and syscall hooks. Weighted risk scoring + JSON report. | 🟢 **ACTIVE** | Python, ELF |
-| [**Snapchat SMTP Open Relay**](https://github.com/Mostafa-Galal-sudo) | Identified and responsibly disclosed an SMTP open relay misconfiguration in Snapchat's mail infrastructure via coordinated vulnerability disclosure. | 🏆 **BUG BOUNTY** | Recon, SMTP |
-
+Operation	Briefing	Status	Arsenal
+PrivEsc-Suite	Comprehensive Linux privilege escalation framework — 3,300+ lines, 183+ SUID binaries, 55+ sudo NOPASSWD vectors, 13 kernel CVEs (2015–2024), LD_PRELOAD/PYTHONPATH chains, runtime false-positive reduction, and a weighted risk-scoring engine.	🟢 ACTIVE	Bash, Python
+Shadow Core	Modular framework for staged payload delivery and controlled listener orchestration. Configuration-driven module graph, multi-stage loader chain, pluggable transports.	🔒 PRIVATE	Python, C
+Payload Research Toolkit	Multi-platform payload research toolkit — Windows/Linux/macOS/Python/JS/PowerShell formats, obfuscation pipeline, listener integration. Authorized lab use only.	🔒 PRIVATE	Python, C++
+Endpoint Telemetry Logger	Stealth kernel-adjacent tool for keystroke and mouse event capture — built for malware behavior research and EDR detection-gap analysis. Async transport, JSON session logging.	📦 ARCHIVED	Python, Socket
+TCP Full Scan Tool	Async TCP full-port scanner (1–65535) — asyncio semaphore concurrency, banner grabbing, well-known service fallback, CSV export.	🟢 ACTIVE	Python
+NM Analyzer	Static analysis engine for Linux Kernel Modules — symbol-table heuristics detect rootkits, privesc symbols, and syscall hooks. Weighted risk scoring + JSON report.	🟢 ACTIVE	Python, ELF
+Snapchat SMTP Open Relay	Identified and responsibly disclosed an SMTP open relay misconfiguration in Snapchat's mail infrastructure via coordinated vulnerability disclosure.	🏆 BUG BOUNTY	Recon, SMTP
 </details>
-
 <details>
 <summary><b>🤖 AI SYSTEMS & COMPUTER VISION</b></summary>
-
-| Operation | Briefing | Status | Arsenal |
-|:---|:---|:---:|:---|
-| [**J.A.R.V.I.S. AI Assistant**](https://github.com/Mostafa-Galal-sudo) | Full Iron Man-inspired AI assistant with bilingual (AR/EN) support, wake word detection, long-term memory, and screen awareness. LOCAL/ONLINE hybrid inference engine routing between Ollama (DeepSeek, LLaMA3) and cloud APIs — wrapped in a custom cinematic sci-fi HUD. | 🟢 **ACTIVE** | Python, Ollama, Flask |
-| [**FaceBlur Live**](https://github.com/Mostafa-Galal-sudo) | Real-time face detection and mosaic-blur privacy tool — MediaPipe + OpenCV, simultaneous audio recording via sounddevice, FFmpeg merge for final output. | 🟢 **ACTIVE** | Python, MediaPipe, FFmpeg |
-| [**TikTok Media Downloader**](https://github.com/Mostafa-Galal-sudo) | Professional customtkinter GUI — watermark-free download, thumbnail preview, video metadata, audio extraction, progress bar. tikwm API. | 📦 **ARCHIVED** | Python, customtkinter |
-
+Operation	Briefing	Status	Arsenal
+J.A.R.V.I.S. AI Assistant	Full Iron Man-inspired AI assistant with bilingual (AR/EN) support, wake word detection, long-term memory, and screen awareness. LOCAL/ONLINE hybrid inference engine routing between Ollama (DeepSeek, LLaMA3) and cloud APIs — wrapped in a custom cinematic sci-fi HUD.	🟢 ACTIVE	Python, Ollama, Flask
+FaceBlur Live	Real-time face detection and mosaic-blur privacy tool — MediaPipe + OpenCV, simultaneous audio recording via sounddevice, FFmpeg merge for final output.	🟢 ACTIVE	Python, MediaPipe, FFmpeg
+TikTok Media Downloader	Professional customtkinter GUI — watermark-free download, thumbnail preview, video metadata, audio extraction, progress bar. tikwm API.	📦 ARCHIVED	Python, customtkinter
 </details>
-
 <details>
 <summary><b>⚙️ EMBEDDED SYSTEMS & HARDWARE</b></summary>
-
-| Operation | Briefing | Status | Arsenal |
-|:---|:---|:---:|:---|
-| [**S.W.A.R.M.**](https://github.com/Mostafa-Galal-sudo) | Smart Wireless Autonomous Reactive Mobile — HC-SR04 + L298N + HC-05 Bluetooth, 5-state layered decision engine, Flask + Socket.IO real-time dashboard (Simple / Complex / Military / Engineering modes), PySerial bridge, Argon2 auth, SQLite logging. | 🟢 **ACTIVE** | Python, Flask, Arduino |
-| [**SmartCar OS**](https://github.com/Mostafa-Galal-sudo/SmartCarApp) | Full-stack smart RC car — Android app with 9 control modes (voice AI, gyroscope, camera line-follower, clap detection, music rhythm, draw path), Arduino AVR firmware, real-time cyberpunk web dashboard via WebSocket. Biometric auth, telemetry radar, Web Audio beat detection. | 🟢 **ACTIVE** | React, Arduino, WebSocket |
-| [**Smart Recon Vehicle**](https://github.com/youssefsalama-11/Smart-Car-Project) | Bluetooth-controlled rover — differential PWM drive, ATmega328P, UART serial telemetry. | 📦 **ARCHIVED** | C++, AVR |
-| [**Hand Sanitizer Dispenser**](https://github.com/Mostafa-Galal-sudo) | Arduino state machine with HC-SR04 ultrasonic, LCD display, relay noise isolation, and periodic LCD refresh logic. | 📦 **ARCHIVED** | C++, Arduino |
-| [**Smart Curtain System**](https://github.com/Mostafa-Galal-sudo) | Pure gate logic — no MCU. AND/OR/NOT gates, Karnaugh-minimized, hazard-free truth table for light/time/manual override inputs. | 📦 **ARCHIVED** | Digital Logic |
-| [**Series RLC Band-Pass Filter**](https://github.com/Mostafa-Galal-sudo) | Passive RLC BPF — f0 = 1.59 MHz, Q = 12.4, BW = 128 kHz. ngspice AC sim, pass-band ripple < 0.4 dB. | 📦 **ARCHIVED** | ngspice |
-| [**3rd-Order Butterworth BPF**](https://github.com/Mostafa-Galal-sudo) | Maximally flat 3rd-order band-pass — f0 = 1 MHz, BW = 10 kHz, -60 dB/decade roll-off. | 📦 **ARCHIVED** | ngspice |
-
+Operation	Briefing	Status	Arsenal
+S.W.A.R.M.	Smart Wireless Autonomous Reactive Mobile — HC-SR04 + L298N + HC-05 Bluetooth, 5-state layered decision engine, Flask + Socket.IO real-time dashboard (Simple / Complex / Military / Engineering modes), PySerial bridge, Argon2 auth, SQLite logging.	🟢 ACTIVE	Python, Flask, Arduino
+SmartCar OS	Full-stack smart RC car — Android app with 9 control modes (voice AI, gyroscope, camera line-follower, clap detection, music rhythm, draw path), Arduino AVR firmware, real-time cyberpunk web dashboard via WebSocket. Biometric auth, telemetry radar, Web Audio beat detection.	🟢 ACTIVE	React, Arduino, WebSocket
+Smart Recon Vehicle	Bluetooth-controlled rover — differential PWM drive, ATmega328P, UART serial telemetry.	📦 ARCHIVED	C++, AVR
+Hand Sanitizer Dispenser	Arduino state machine with HC-SR04 ultrasonic, LCD display, relay noise isolation, and periodic LCD refresh logic.	📦 ARCHIVED	C++, Arduino
+Smart Curtain System	Pure gate logic — no MCU. AND/OR/NOT gates, Karnaugh-minimized, hazard-free truth table for light/time/manual override inputs.	📦 ARCHIVED	Digital Logic
+Series RLC Band-Pass Filter	Passive RLC BPF — f0 = 1.59 MHz, Q = 12.4, BW = 128 kHz. ngspice AC sim, pass-band ripple < 0.4 dB.	📦 ARCHIVED	ngspice
+3rd-Order Butterworth BPF	Maximally flat 3rd-order band-pass — f0 = 1 MHz, BW = 10 kHz, -60 dB/decade roll-off.	📦 ARCHIVED	ngspice
 </details>
-
 <details>
 <summary><b>🌐 WEB PORTFOLIO & CTF ARSENAL</b></summary>
-
-| Operation | Briefing | Status | Arsenal |
-|:---|:---|:---:|:---|
-| [**cybernetic-canvas**](https://github.com/Mostafa-Galal-sudo/cybernetic-canvas) | Personal portfolio — React + TanStack Router + TypeScript + Cloudflare Workers. Neural network visualization, IDE-style projects workspace, cyberpunk design system. | 🟢 **ACTIVE** | React, TypeScript, Workers |
-| [**CTF Writeups**](https://github.com/Mostafa-Galal-sudo/ctf) | HackTheBox writeups & exploit chains — pwn, RE, crypto, web, AD. BOF, ASLR bypass via format-string leak, AD attack paths, binary analysis. | 🟢 **ACTIVE** | Markdown, Python |
-
+Operation	Briefing	Status	Arsenal
+cybernetic-canvas	Personal portfolio — React + TanStack Router + TypeScript + Cloudflare Workers. Neural network visualization, IDE-style projects workspace, cyberpunk design system.	🟢 ACTIVE	React, TypeScript, Workers
+CTF Writeups	HackTheBox writeups & exploit chains — pwn, RE, crypto, web, AD. BOF, ASLR bypass via format-string leak, AD attack paths, binary analysis.	🟢 ACTIVE	Markdown, Python
 </details>
-
 ---
-
-## <p align="center">📊 VOID TELEMETRY — BATTLE STATISTICS</p>
-
+<p align="center">📊 VOID TELEMETRY — BATTLE STATISTICS</p>
 <p align="center">
   <img height="195em" src="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=000000&ring=FF0000&fire=8B0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FF0000&dates=8B0000" alt="GitHub Streak" />
 </p>
-
-## <p align="center">🏆 BATTLE HONORS</p>
-
+<p align="center">🏆 BATTLE HONORS</p>
 <p align="center">
   <img src="https://img.shields.io/badge/🏆-MULTI--YEAR_CONTRIBUTOR-FF0000?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/🏆-PULL_REQUEST_MERGED-8B0000?style=for-the-badge&labelColor=000000" />
@@ -206,17 +158,12 @@
   <img src="https://img.shields.io/badge/🏆-CODE_REVIEWED-8B0000?style=for-the-badge&labelColor=000000" />
   <img src="https://img.shields.io/badge/🏆-SECURITY_RESEARCH-FF0000?style=for-the-badge&labelColor=000000" />
 </p>
-
 ---
-
-## <p align="center">🐍 NEURAL BLOODPATH — CONTRIBUTION INTELLIGENCE</p>
-
+<p align="center">🐍 NEURAL BLOODPATH — CONTRIBUTION INTELLIGENCE</p>
 <!-- 
   SETUP: Create .github/workflows/snake.yml using Platane/snk action.
   Workflow file: https://github.com/Platane/snk
   Enable Actions permissions: Settings → Actions → General → Read and write permissions
--->
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mostafa-Galal-sudo/Mostafa-Galal-sudo/output/github-contribution-grid-snake-dark.svg" />
@@ -224,55 +171,42 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Mostafa-Galal-sudo/Mostafa-Galal-sudo/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Galal-sudo&bg_color=000000&color=FF0000&line=8B0000&point=FF0000&area=true&hide_border=true&custom_title=ElFa7L%20%7C%20BLOOD%20HEATMAP&v=2" width="100%" alt="Activity Graph" />
 </p>
-
 ---
-
-## <p align="center">📜 BLOOD OATHS — SECURITY CLEARANCE</p>
-
+<p align="center">📜 BLOOD OATHS — SECURITY CLEARANCE</p>
 <p align="center">
   <img src="https://img.shields.io/badge/eJPT-CERTIFIED-FF0000?style=for-the-badge&labelColor=000000" />
   <br><b>eLearnSecurity Junior Penetration Tester</b><br>
   <sub>INE / eJPT Verification</sub>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/CCNA-CERTIFIED-FF0000?style=for-the-badge&labelColor=000000" />
   <br><b>Cisco Certified Network Associate</b><br>
   <sub>Cisco Verification</sub>
 </p>
-
 <p align="center">
   <a href="https://app.hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-ACTIVE_PLAYER-FF0000?style=for-the-badge&labelColor=000000" /></a>
   <br><b>Active Player — Pwn | RE | Crypto | Web | AD</b><br>
   <sub><a href="https://app.hackthebox.com">Profile</a></sub>
 </p>
-
 ---
-
-## <p align="center">📡 DEAD DROPS — SECURE COMMUNICATIONS</p>
-
+<p align="center">📡 DEAD DROPS — SECURE COMMUNICATIONS</p>
 <p align="center">
   <a href="https://app.hackthebox.com/profile/ElFa7L"><img src="https://img.shields.io/badge/HackTheBox-Profile-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=000000" /></a>
   <a href="https://github.com/Mostafa-Galal-sudo/cybernetic-canvas"><img src="https://img.shields.io/badge/Portfolio-cybernetic--canvas-8B0000?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" /></a>
   <a href="https://linkedin.com/in/mostafa-galal-97148b216"><img src="https://img.shields.io/badge/LinkedIn-Connect-8B0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
   <a href="https://github.com/Mostafa-Galal-sudo"><img src="https://img.shields.io/badge/GitHub-ElFa7L-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
 </p>
-
 ---
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:8B0000,70:FF0000,100:000000&height=160&section=footer&text=The%20best%20defense%20is%20understanding%20the%20offense.&fontSize=20&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn&stroke=FF0000&strokeWidth=2" width="100%" alt="Footer Banner" />
 </p>
-
 <p align="center">
   <code style="color:#FF0000;">The best defense is understanding the offense.</code><br>
   <code style="color:#8B0000;">— ElFa7L</code>
 </p>
-
 <p align="center">
   <sub><code style="color:#333;">[ CONNECTION TERMINATED ] [ TRACE ERASED ] [ NO LOGS FOUND ]</code></sub>
 </p>
