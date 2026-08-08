@@ -31,7 +31,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/icon-embedded.svg" width="70" alt="" /></p>
 
-#### ⚡ Embedded & Communications
+####  Embedded & Communications
 - Digital communications — PCM, line coding, bandpass modulation
 - Electrical machines — transformers, induction & DC motors
 - ARM/AVR firmware and hardware-level attack surfaces
@@ -42,7 +42,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/icon-security.svg" width="70" alt="" /></p>
 
-#### 🛡️ Offensive Security
+####  Offensive Security
 - Penetration testing — eJPT certified
 - Binary exploitation, reverse engineering, pwn
 - Telecom protocol security — SS7, Diameter, GTP, OT/ICS
@@ -56,7 +56,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/icon-target.svg" width="70" alt="" /></p>
 
-### 🎯 Right Now
+###  Right Now
 
 - Chasing internships across telecom & cybersecurity in Egypt — completed a CIB summer internship with a perfect score
 - Working toward **OSCP** and **GICSP** as the next certification milestones
@@ -67,7 +67,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/icon-roadmap.svg" width="70" alt="" /></p>
 
-### 🛰️ 2026 Roadmap
+###  2026 Roadmap
 
 <p align="center">
   <img src="assets/roadmap.svg" width="100%" alt="2026 Roadmap Timeline" />
@@ -77,7 +77,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/icon-toolbox.svg" width="70" alt="" /></p>
 
-### 🧰 Toolbox
+###  Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=38BDF8" />
@@ -107,7 +107,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/icon-projects.svg" width="70" alt="" /></p>
 
-### 🗂️ Projects
+###  Projects
 
 <p align="center"><img src="assets/icon-security.svg" width="46" alt="" /></p>
 
@@ -144,7 +144,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/icon-pulse.svg" width="70" alt="" /></p>
 
-### 📈 Activity
+###  Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=0a0a0f&ring=6366F1&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E0E7FF&currStreakNum=E0E7FF&sideNums=38BDF8&dates=64748B" alt="GitHub Streak" />
@@ -154,7 +154,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/icon-signal.svg" width="70" alt="" /></p>
 
-### 📡 Reach Me
+###  Reach Me
 
 <p align="center">
   <a href="https://linkedin.com/in/mostafa-galal-97148b216"><img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
