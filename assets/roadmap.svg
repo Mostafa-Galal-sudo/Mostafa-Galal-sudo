@@ -1,0 +1,48 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="trackGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="nodeGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="220" fill="#0a0a0f"/>
+
+  <line x1="60" y1="70" x2="940" y2="70" stroke="url(#trackGrad)" stroke-width="2" stroke-opacity="0.5"/>
+
+  <!-- node 1 -->
+  <circle cx="120" cy="70" r="8" fill="#38BDF8" filter="url(#nodeGlow)"/>
+  <text x="120" y="40" text-anchor="middle" font-family="Consolas,monospace" font-size="12" fill="#38BDF8" letter-spacing="1">Q1–Q2</text>
+  <text x="120" y="100" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="12" fill="#CBD5E1">Land telecom /</text>
+  <text x="120" y="116" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="12" fill="#CBD5E1">security internship</text>
+
+  <!-- node 2 -->
+  <circle cx="340" cy="70" r="8" fill="#6366F1" filter="url(#nodeGlow)"/>
+  <text x="340" y="40" text-anchor="middle" font-family="Consolas,monospace" font-size="12" fill="#6366F1" letter-spacing="1">Q2–Q3</text>
+  <text x="340" y="100" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="12" fill="#CBD5E1">Telecom protocol</text>
+  <text x="340" y="116" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="12" fill="#CBD5E1">research — SS7/GTP</text>
+
+  <!-- node 3 -->
+  <circle cx="560" cy="70" r="8" fill="#818CF8" filter="url(#nodeGlow)"/>
+  <text x="560" y="40" text-anchor="middle" font-family="Consolas,monospace" font-size="12" fill="#818CF8" letter-spacing="1">Q3</text>
+  <text x="560" y="100" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="12" fill="#CBD5E1">Pursue</text>
+  <text x="560" y="116" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="12" fill="#CBD5E1">OSCP</text>
+
+  <!-- node 4 -->
+  <circle cx="780" cy="70" r="8" fill="#A78BFA" filter="url(#nodeGlow)"/>
+  <text x="780" y="40" text-anchor="middle" font-family="Consolas,monospace" font-size="12" fill="#A78BFA" letter-spacing="1">Q4</text>
+  <text x="780" y="100" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="12" fill="#CBD5E1">Pursue GICSP —</text>
+  <text x="780" y="116" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="12" fill="#CBD5E1">bridge into OT/ICS</text>
+
+  <!-- node 5 -->
+  <circle cx="920" cy="70" r="8" fill="#C4B5FD" filter="url(#nodeGlow)"/>
+  <text x="920" y="40" text-anchor="middle" font-family="Consolas,monospace" font-size="12" fill="#C4B5FD" letter-spacing="1">ONGOING</text>
+  <text x="920" y="100" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="12" fill="#CBD5E1">Relocation track:</text>
+  <text x="920" y="116" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="12" fill="#CBD5E1">DE / NL, 24 months</text>
+
+  <text x="500" y="180" text-anchor="middle" font-family="Consolas,monospace" font-size="11" fill="#475569" letter-spacing="2">2026 ROADMAP</text>
+</svg>
