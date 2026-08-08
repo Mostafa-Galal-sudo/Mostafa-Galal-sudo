@@ -15,6 +15,8 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
+<p align="center"><img src="assets/icon-about.svg" width="70" alt="" /></p>
+
 ### About Me
 
 I'm a final-year **Electronics & Communications Engineering** student who spends equal time in two worlds that most people keep separate: designing the systems that run on silicon, and breaking the ones that don't hold up under pressure. That split isn't a contradiction — understanding how embedded hardware and network protocols actually work is what makes the offensive side of my work precise instead of guesswork.
@@ -62,6 +64,8 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 - Shipping personal projects — a fitness-RPG app with a real-time 3D muscle map, and a from-scratch cyberpunk portfolio site
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<p align="center"><img src="assets/icon-roadmap.svg" width="70" alt="" /></p>
 
 ### 🛰️ 2026 Roadmap
 
