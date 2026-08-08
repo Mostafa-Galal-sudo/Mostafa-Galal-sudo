@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mostafa-Galal-sudo&style=flat-square&color=6366F1&labelColor=0a0a0f&label=Visits" alt="Profile Views" />
 </p>
 
-<p align="center">•••</p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ### About Me
 
@@ -27,6 +27,8 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 <tr>
 <td width="50%" valign="top">
 
+<p align="center"><img src="assets/icon-embedded.svg" width="70" alt="" /></p>
+
 #### ⚡ Embedded & Communications
 - Digital communications — PCM, line coding, bandpass modulation
 - Electrical machines — transformers, induction & DC motors
@@ -35,6 +37,8 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 </td>
 <td width="50%" valign="top">
+
+<p align="center"><img src="assets/icon-security.svg" width="70" alt="" /></p>
 
 #### 🛡️ Offensive Security
 - Penetration testing — eJPT certified
@@ -46,7 +50,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 </tr>
 </table>
 
-<p align="center">•••</p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ### 🎯 Right Now
 
@@ -55,19 +59,15 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 - Building a long-term path toward **Critical Infrastructure Protection** and telecom protocol security, with an eye on relocating to Europe within the next two years
 - Shipping personal projects — a fitness-RPG app with a real-time 3D muscle map, and a from-scratch cyberpunk portfolio site
 
-<p align="center">•••</p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ### 🛰️ 2026 Roadmap
 
-| Phase | Milestone |
-|:---|:---|
-| **Q1 – Q2** | Land a telecom / cybersecurity internship or entry role in Egypt |
-| **Q2 – Q3** | Deepen telecom protocol security research — SS7 / Diameter / GTP labs |
-| **Q3** | Pursue **OSCP** certification |
-| **Q4** | Pursue **GICSP** — bridging into OT/ICS security |
-| **Ongoing** | 24-month track toward relocating to Germany or the Netherlands for critical-infrastructure security work |
+<p align="center">
+  <img src="assets/roadmap.svg" width="100%" alt="2026 Roadmap Timeline" />
+</p>
 
-<p align="center">•••</p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ### 🧰 Toolbox
 
@@ -95,7 +95,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
   <img src="https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=818CF8" />
 </p>
 
-<p align="center">•••</p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ### 🗂️ Projects
 
@@ -124,7 +124,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><a href="https://github.com/Mostafa-Galal-sudo?tab=repositories"><sub>→ full repository list</sub></a></p>
 
-<p align="center">•••</p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ### 📈 Activity
 
@@ -132,7 +132,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
   <img src="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=0a0a0f&ring=6366F1&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E0E7FF&currStreakNum=E0E7FF&sideNums=38BDF8&dates=64748B" alt="GitHub Streak" />
 </p>
 
-<p align="center">•••</p>
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ### 📡 Reach Me
 
