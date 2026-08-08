@@ -19,6 +19,10 @@
 
 ### About Me
 
+<p align="center">
+  <img src="assets/my-profile-picture.jpg" width="140" alt="Mostafa Galal" />
+</p>
+
 I'm a final-year **Electronics & Communications Engineering** student who spends equal time in two worlds that most people keep separate: designing the systems that run on silicon, and breaking the ones that don't hold up under pressure. That split isn't a contradiction — understanding how embedded hardware and network protocols actually work is what makes the offensive side of my work precise instead of guesswork.
 
 By day I'm building firmware, chasing signal integrity, and reasoning through circuits. By night I'm on HackTheBox chaining exploits, or reverse-engineering a binary until it gives up its secrets. Both disciplines demand the same thing: patience with complexity, and a refusal to accept "it just works" as an answer.
@@ -31,7 +35,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/icon-embedded.svg" width="70" alt="" /></p>
 
-####  Embedded & Communications
+#### Embedded & Communications
 - Digital communications — PCM, line coding, bandpass modulation
 - Electrical machines — transformers, induction & DC motors
 - ARM/AVR firmware and hardware-level attack surfaces
@@ -42,11 +46,16 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/icon-security.svg" width="70" alt="" /></p>
 
-####  Offensive Security
+#### Offensive Security
 - Penetration testing — eJPT certified
 - Binary exploitation, reverse engineering, pwn
 - Telecom protocol security — SS7, Diameter, GTP, OT/ICS
 - Active CTF player, team **DARXVEIL-ICMTC26**
+
+<p align="center">
+  <img src="assets/bof.png" width="120" alt="Buffer overflow exploitation" />
+  <img src="assets/x86.png" width="120" alt="x86 assembly analysis" />
+</p>
 
 </td>
 </tr>
@@ -56,18 +65,26 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/icon-target.svg" width="70" alt="" /></p>
 
-###  Right Now
+### Right Now
 
 - Chasing internships across telecom & cybersecurity in Egypt — completed a CIB summer internship with a perfect score
 - Working toward **OSCP** and **GICSP** as the next certification milestones
 - Building a long-term path toward **Critical Infrastructure Protection** and telecom protocol security, with an eye on relocating to Europe within the next two years
 - Shipping personal projects — a fitness-RPG app with a real-time 3D muscle map, and a from-scratch cyberpunk portfolio site
 
+<table align="center">
+<tr>
+<td align="center"><img src="assets/ejpt.png" width="110" alt="eJPT" /><br><sub>eJPT</sub></td>
+<td align="center"><img src="assets/redhat.png" width="110" alt="Red Hat" /><br><sub>Red Hat</sub></td>
+<td align="center"><img src="assets/cib.png" width="110" alt="CIB Internship" /><br><sub>CIB Internship</sub></td>
+</tr>
+</table>
+
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 <p align="center"><img src="assets/icon-roadmap.svg" width="70" alt="" /></p>
 
-###  2026 Roadmap
+### 2026 Roadmap
 
 <p align="center">
   <img src="assets/roadmap.svg" width="100%" alt="2026 Roadmap Timeline" />
@@ -77,7 +94,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/icon-toolbox.svg" width="70" alt="" /></p>
 
-###  Toolbox
+### Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=38BDF8" />
@@ -107,7 +124,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/icon-projects.svg" width="70" alt="" /></p>
 
-###  Projects
+### Projects
 
 <p align="center"><img src="assets/icon-security.svg" width="46" alt="" /></p>
 
@@ -117,7 +134,14 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 |:---|:---|:---|
 | [**PrivEsc-Suite**](https://github.com/Mostafa-Galal-sudo) | Linux privilege-escalation framework — 180+ SUID vectors, 13 kernel CVEs, weighted risk scoring | Bash, Python |
 | [**NM Analyzer**](https://github.com/Mostafa-Galal-sudo) | Static analysis engine for kernel modules — detects rootkit patterns via symbol-table heuristics | Python, ELF |
-| [**TCP Full Scan Tool**](https://github.com/Mostafa-Galal-sudo) | Async full-port TCP scanner with banner grabbing and CSV export | Python, asyncio |
+| [**Snapchat SMTP Open Relay**](https://github.com/Mostafa-Galal-sudo) | Identified and responsibly disclosed an SMTP open relay misconfiguration in Snapchat's mail infrastructure | Recon, SMTP |
+
+<p align="center">
+  <img src="assets/nm_analyzer.png" width="260" alt="NM Analyzer" /><br><sub>NM Analyzer</sub>
+</p>
+<p align="center">
+  <img src="assets/snapchat.png" width="260" alt="Snapchat bug bounty disclosure" /><br><sub>Snapchat — Responsible Disclosure</sub>
+</p>
 
 <p align="center"><img src="assets/icon-embedded.svg" width="46" alt="" /></p>
 
@@ -127,6 +151,10 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 |:---|:---|:---|
 | [**S.W.A.R.M.**](https://github.com/Mostafa-Galal-sudo) | Autonomous rover with a live Flask/Socket.IO dashboard and multi-mode decision engine | Python, Flask, Arduino |
 | [**SmartCar OS**](https://github.com/Mostafa-Galal-sudo/SmartCarApp) | Full-stack smart RC car — 9 control modes including voice, gyroscope, and computer-vision line-following | React, Arduino, WebSocket |
+
+<p align="center">
+  <img src="assets/smartcar.png" width="260" alt="SmartCar OS" /><br><sub>SmartCar OS</sub>
+</p>
 
 <p align="center"><img src="assets/icon-ai.svg" width="46" alt="" /></p>
 
@@ -138,13 +166,17 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 | [**FaceBlur Live**](https://github.com/Mostafa-Galal-sudo) | Real-time face detection & mosaic privacy tool with synced audio recording | Python, MediaPipe, FFmpeg |
 | [**cybernetic-canvas**](https://github.com/Mostafa-Galal-sudo/cybernetic-canvas) | This portfolio, rebuilt — React + TanStack Router with hand-built interactive visualizations | React, TypeScript |
 
+<p align="center">
+  <img src="assets/livefaceblur.png" width="260" alt="FaceBlur Live" /><br><sub>FaceBlur Live</sub>
+</p>
+
 <p align="center"><a href="https://github.com/Mostafa-Galal-sudo?tab=repositories"><sub>→ full repository list</sub></a></p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 <p align="center"><img src="assets/icon-pulse.svg" width="70" alt="" /></p>
 
-###  Activity
+### Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=0a0a0f&ring=6366F1&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E0E7FF&currStreakNum=E0E7FF&sideNums=38BDF8&dates=64748B" alt="GitHub Streak" />
@@ -154,7 +186,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/icon-signal.svg" width="70" alt="" /></p>
 
-###  Reach Me
+### Reach Me
 
 <p align="center">
   <a href="https://linkedin.com/in/mostafa-galal-97148b216"><img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
