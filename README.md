@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:0f1730,50:1a2a5e,75:5b21b6,100:0a0a0f&height=270&section=header&text=Mostafa%20Galal&fontSize=68&fontColor=E0E7FF&fontAlignY=32&desc=Electronics%20%26%20Communications%20Engineer%20%C3%97%20Offensive%20Security&descAlignY=52&descSize=17&animation=fadeIn&fontListY=0" width="100%" alt="Header" />
+  <img src="assets/banner-header.svg" width="100%" alt="Mostafa Galal — ECE × Offensive Security" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Embedded+Systems+Engineer+%7C+Penetration+Tester;Kernel+%26+Binary+Internals+%C2%B7+ARM%2FAVR+Firmware;CTF+Player+%40+DARXVEIL-ICMTC26+%7C+eJPT+Certified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Embedded+Systems+Engineer+%7C+Penetration+Tester;Kernel+%26+Binary+Internals+%7C+ARM%2FAVR+Firmware;CTF+Player+%40+DARXVEIL-ICMTC26+%7C+eJPT+Certified" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -54,6 +54,18 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 - Working toward **OSCP** and **GICSP** as the next certification milestones
 - Building a long-term path toward **Critical Infrastructure Protection** and telecom protocol security, with an eye on relocating to Europe within the next two years
 - Shipping personal projects — a fitness-RPG app with a real-time 3D muscle map, and a from-scratch cyberpunk portfolio site
+
+<p align="center">•••</p>
+
+### 🛰️ 2026 Roadmap
+
+| Phase | Milestone |
+|:---|:---|
+| **Q1 – Q2** | Land a telecom / cybersecurity internship or entry role in Egypt |
+| **Q2 – Q3** | Deepen telecom protocol security research — SS7 / Diameter / GTP labs |
+| **Q3** | Pursue **OSCP** certification |
+| **Q4** | Pursue **GICSP** — bridging into OT/ICS security |
+| **Ongoing** | 24-month track toward relocating to Germany or the Netherlands for critical-infrastructure security work |
 
 <p align="center">•••</p>
 
@@ -114,6 +126,12 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center">•••</p>
 
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Galal-sudo&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Trophies" />
+</p>
+
 ### 📈 Activity
 
 <p align="center">
@@ -136,5 +154,5 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,25:1a2a5e,50:4c1d95,75:1a2a5e,100:0a0a0f&height=120&section=footer" width="100%" />
+  <img src="assets/banner-footer.svg" width="100%" alt="footer" />
 </p>
