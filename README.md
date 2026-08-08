@@ -126,18 +126,8 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center">•••</p>
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mostafa-Galal-sudo&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Trophies" />
-</p>
-
 ### 📈 Activity
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Galal-sudo&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=A78BFA&icon_color=38BDF8&text_color=E0E7FF&ring_color=6366F1" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Galal-sudo&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=A78BFA&text_color=E0E7FF&langs_count=8" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mostafa-Galal-sudo&hide_border=true&background=0a0a0f&ring=6366F1&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E0E7FF&currStreakNum=E0E7FF&sideNums=38BDF8&dates=64748B" alt="GitHub Streak" />
 </p>
