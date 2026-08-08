@@ -37,6 +37,13 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 - ARM/AVR firmware and hardware-level attack surfaces
 - RF & filter design (RLC / Butterworth band-pass, ngspice)
 
+<table align="center">
+<tr>
+<td align="center"><img src="assets/bandpass.png" width="130" alt="RLC Band-Pass Filter" /></td>
+<td align="center"><img src="assets/butterworth_bpf.jpeg" width="130" alt="Butterworth Band-Pass Filter" /></td>
+</tr>
+</table>
+
 </td>
 <td width="50%" valign="top">
 
