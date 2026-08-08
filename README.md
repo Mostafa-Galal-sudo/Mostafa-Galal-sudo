@@ -52,6 +52,8 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
+<p align="center"><img src="assets/icon-target.svg" width="70" alt="" /></p>
+
 ### 🎯 Right Now
 
 - Chasing internships across telecom & cybersecurity in Egypt — completed a CIB summer internship with a perfect score
@@ -68,6 +70,8 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<p align="center"><img src="assets/icon-toolbox.svg" width="70" alt="" /></p>
 
 ### 🧰 Toolbox
 
@@ -99,7 +103,7 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 ### 🗂️ Projects
 
-**Security & Offensive Tooling**
+**<img src="assets/icon-security.svg" width="20" style="vertical-align:middle" /> Security & Offensive Tooling**
 
 | Project | What it does | Stack |
 |:---|:---|:---|
@@ -107,14 +111,14 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 | [**NM Analyzer**](https://github.com/Mostafa-Galal-sudo) | Static analysis engine for kernel modules — detects rootkit patterns via symbol-table heuristics | Python, ELF |
 | [**TCP Full Scan Tool**](https://github.com/Mostafa-Galal-sudo) | Async full-port TCP scanner with banner grabbing and CSV export | Python, asyncio |
 
-**Embedded & Hardware**
+**<img src="assets/icon-embedded.svg" width="20" style="vertical-align:middle" /> Embedded & Hardware**
 
 | Project | What it does | Stack |
 |:---|:---|:---|
 | [**S.W.A.R.M.**](https://github.com/Mostafa-Galal-sudo) | Autonomous rover with a live Flask/Socket.IO dashboard and multi-mode decision engine | Python, Flask, Arduino |
 | [**SmartCar OS**](https://github.com/Mostafa-Galal-sudo/SmartCarApp) | Full-stack smart RC car — 9 control modes including voice, gyroscope, and computer-vision line-following | React, Arduino, WebSocket |
 
-**AI & Applications**
+**<img src="assets/icon-ai.svg" width="20" style="vertical-align:middle" /> AI & Applications**
 
 | Project | What it does | Stack |
 |:---|:---|:---|
@@ -126,6 +130,8 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
+<p align="center"><img src="assets/icon-pulse.svg" width="70" alt="" /></p>
+
 ### 📈 Activity
 
 <p align="center">
@@ -133,6 +139,8 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<p align="center"><img src="assets/icon-signal.svg" width="70" alt="" /></p>
 
 ### 📡 Reach Me
 
