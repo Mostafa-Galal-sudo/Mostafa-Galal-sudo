@@ -101,9 +101,13 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
+<p align="center"><img src="assets/icon-projects.svg" width="70" alt="" /></p>
+
 ### 🗂️ Projects
 
-**<img src="assets/icon-security.svg" width="20" style="vertical-align:middle" /> Security & Offensive Tooling**
+<p align="center"><img src="assets/icon-security.svg" width="46" alt="" /></p>
+
+**Security & Offensive Tooling**
 
 | Project | What it does | Stack |
 |:---|:---|:---|
@@ -111,14 +115,18 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 | [**NM Analyzer**](https://github.com/Mostafa-Galal-sudo) | Static analysis engine for kernel modules — detects rootkit patterns via symbol-table heuristics | Python, ELF |
 | [**TCP Full Scan Tool**](https://github.com/Mostafa-Galal-sudo) | Async full-port TCP scanner with banner grabbing and CSV export | Python, asyncio |
 
-**<img src="assets/icon-embedded.svg" width="20" style="vertical-align:middle" /> Embedded & Hardware**
+<p align="center"><img src="assets/icon-embedded.svg" width="46" alt="" /></p>
+
+**Embedded & Hardware**
 
 | Project | What it does | Stack |
 |:---|:---|:---|
 | [**S.W.A.R.M.**](https://github.com/Mostafa-Galal-sudo) | Autonomous rover with a live Flask/Socket.IO dashboard and multi-mode decision engine | Python, Flask, Arduino |
 | [**SmartCar OS**](https://github.com/Mostafa-Galal-sudo/SmartCarApp) | Full-stack smart RC car — 9 control modes including voice, gyroscope, and computer-vision line-following | React, Arduino, WebSocket |
 
-**<img src="assets/icon-ai.svg" width="20" style="vertical-align:middle" /> AI & Applications**
+<p align="center"><img src="assets/icon-ai.svg" width="46" alt="" /></p>
+
+**AI & Applications**
 
 | Project | What it does | Stack |
 |:---|:---|:---|
