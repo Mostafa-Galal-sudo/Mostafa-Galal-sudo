@@ -19,10 +19,6 @@
 
 ### About Me
 
-<p align="center">
-  <img src="assets/my-profile-picture.jpg" width="140" alt="Mostafa Galal" />
-</p>
-
 I'm a final-year **Electronics & Communications Engineering** student who spends equal time in two worlds that most people keep separate: designing the systems that run on silicon, and breaking the ones that don't hold up under pressure. That split isn't a contradiction — understanding how embedded hardware and network protocols actually work is what makes the offensive side of my work precise instead of guesswork.
 
 By day I'm building firmware, chasing signal integrity, and reasoning through circuits. By night I'm on HackTheBox chaining exploits, or reverse-engineering a binary until it gives up its secrets. Both disciplines demand the same thing: patience with complexity, and a refusal to accept "it just works" as an answer.
@@ -52,10 +48,12 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 - Telecom protocol security — SS7, Diameter, GTP, OT/ICS
 - Active CTF player, team **DARXVEIL-ICMTC26**
 
-<p align="center">
-  <img src="assets/bof.png" width="120" alt="Buffer overflow exploitation" />
-  <img src="assets/x86.png" width="120" alt="x86 assembly analysis" />
-</p>
+<table align="center">
+<tr>
+<td align="center"><img src="assets/bof.png" width="130" alt="Buffer overflow exploitation" /></td>
+<td align="center"><img src="assets/x86.png" width="130" alt="x86 assembly analysis" /></td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -136,12 +134,12 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 | [**NM Analyzer**](https://github.com/Mostafa-Galal-sudo) | Static analysis engine for kernel modules — detects rootkit patterns via symbol-table heuristics | Python, ELF |
 | [**Snapchat SMTP Open Relay**](https://github.com/Mostafa-Galal-sudo) | Identified and responsibly disclosed an SMTP open relay misconfiguration in Snapchat's mail infrastructure | Recon, SMTP |
 
-<p align="center">
-  <img src="assets/nm_analyzer.png" width="260" alt="NM Analyzer" /><br><sub>NM Analyzer</sub>
-</p>
-<p align="center">
-  <img src="assets/snapchat.png" width="260" alt="Snapchat bug bounty disclosure" /><br><sub>Snapchat — Responsible Disclosure</sub>
-</p>
+<table align="center">
+<tr>
+<td align="center"><img src="assets/nm_analyzer.png" width="260" alt="NM Analyzer" /><br><sub>NM Analyzer</sub></td>
+<td align="center"><img src="assets/snapchat.png" width="260" alt="Snapchat bug bounty disclosure" /><br><sub>Snapchat — Responsible Disclosure</sub></td>
+</tr>
+</table>
 
 <p align="center"><img src="assets/icon-embedded.svg" width="46" alt="" /></p>
 
@@ -151,10 +149,18 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 |:---|:---|:---|
 | [**S.W.A.R.M.**](https://github.com/Mostafa-Galal-sudo) | Autonomous rover with a live Flask/Socket.IO dashboard and multi-mode decision engine | Python, Flask, Arduino |
 | [**SmartCar OS**](https://github.com/Mostafa-Galal-sudo/SmartCarApp) | Full-stack smart RC car — 9 control modes including voice, gyroscope, and computer-vision line-following | React, Arduino, WebSocket |
+| [**Series RLC Band-Pass Filter**](https://github.com/Mostafa-Galal-sudo) | Passive RLC BPF — f0 = 1.59 MHz, Q = 12.4, BW = 128 kHz, pass-band ripple < 0.4 dB | ngspice |
+| [**3rd-Order Butterworth BPF**](https://github.com/Mostafa-Galal-sudo) | Maximally flat 3rd-order band-pass — f0 = 1 MHz, BW = 10 kHz, -60 dB/decade roll-off | ngspice |
+| [**Smart Curtain System**](https://github.com/Mostafa-Galal-sudo) | Pure gate logic — Karnaugh-minimized, hazard-free truth table for light/time/manual override | Digital Logic |
 
-<p align="center">
-  <img src="assets/smartcar.png" width="260" alt="SmartCar OS" /><br><sub>SmartCar OS</sub>
-</p>
+<table align="center">
+<tr>
+<td align="center"><img src="assets/smartcar.png" width="200" alt="SmartCar OS" /><br><sub>SmartCar OS</sub></td>
+<td align="center"><img src="assets/bandpass.png" width="200" alt="RLC Band-Pass Filter" /><br><sub>RLC Band-Pass Filter</sub></td>
+<td align="center"><img src="assets/butterworth_bpf.jpeg" width="200" alt="Butterworth BPF" /><br><sub>Butterworth BPF</sub></td>
+<td align="center"><img src="assets/curtain.png" width="200" alt="Smart Curtain System" /><br><sub>Smart Curtain System</sub></td>
+</tr>
+</table>
 
 <p align="center"><img src="assets/icon-ai.svg" width="46" alt="" /></p>
 
@@ -166,9 +172,11 @@ By day I'm building firmware, chasing signal integrity, and reasoning through ci
 | [**FaceBlur Live**](https://github.com/Mostafa-Galal-sudo) | Real-time face detection & mosaic privacy tool with synced audio recording | Python, MediaPipe, FFmpeg |
 | [**cybernetic-canvas**](https://github.com/Mostafa-Galal-sudo/cybernetic-canvas) | This portfolio, rebuilt — React + TanStack Router with hand-built interactive visualizations | React, TypeScript |
 
-<p align="center">
-  <img src="assets/livefaceblur.png" width="260" alt="FaceBlur Live" /><br><sub>FaceBlur Live</sub>
-</p>
+<table align="center">
+<tr>
+<td align="center"><img src="assets/livefaceblur.png" width="260" alt="FaceBlur Live" /><br><sub>FaceBlur Live</sub></td>
+</tr>
+</table>
 
 <p align="center"><a href="https://github.com/Mostafa-Galal-sudo?tab=repositories"><sub>→ full repository list</sub></a></p>
 
